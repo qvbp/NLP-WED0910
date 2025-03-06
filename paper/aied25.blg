@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: aied25.aux
+The style file: splncs04.bst
+Database file #1: aied.bib
+Warning--empty booktitle in sun2023adversarial
+You've used 38 entries,
+            2850 wiz_defined-function locations,
+            784 strings with 12740 characters,
+and the built_in function-call counts, 25291 in all, are:
+= -- 2096
+> -- 1006
+< -- 32
++ -- 413
+- -- 372
+* -- 1600
+:= -- 3265
+add.period$ -- 64
+call.type$ -- 38
+change.case$ -- 346
+chr.to.int$ -- 0
+cite$ -- 39
+duplicate$ -- 2123
+empty$ -- 2120
+format.name$ -- 407
+if$ -- 5496
+int.to.chr$ -- 0
+int.to.str$ -- 38
+missing$ -- 446
+newline$ -- 120
+num.names$ -- 76
+pop$ -- 932
+preamble$ -- 1
+purify$ -- 262
+quote$ -- 0
+skip$ -- 679
+stack$ -- 0
+substring$ -- 1375
+swap$ -- 1148
+text.length$ -- 32
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 152
+warning$ -- 1
+while$ -- 192
+width$ -- 40
+write$ -- 380
+(There was 1 warning)
