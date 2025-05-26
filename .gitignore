@@ -1,4 +1,7 @@
 /projects/wandb
 /projects/models
 /projects/checkpoints
-/datas
+/projects/logs
+/projects/output.txt
+/projects/grid_search_results
+/projects/grid_search_checkpoints

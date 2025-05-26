@@ -1,0 +1,3531 @@
+[
+    {
+        "sent_id": 5059,
+        "sent": "作为一名英语课代表，对徐老师的认识可能比同学更清楚。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "其他成分残缺"
+        ]
+    },
+    {
+        "sent_id": 254,
+        "sent": "因而，保存良好的家风，摒弃有害而无益的家风，是有助于人成长的一大益事。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 5612,
+        "sent": "早上阳光明媚，如我的心灵，丝毫不被外界的阴云所引响，只觉得蔚蓝的天空上漂浮着的云，星星点点素雅的小花，让人倍感舒爽到了中午，远处传来一丝丝的锣鼓声，一众人从小到大到我眼前，看清上面有一个方形的木盒，很大，盖住了天上的太阳。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "主语不明",
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 4614,
+        "sent": "周末时，老师邀请我与其他的同学去为母校的同学们界绍一位著名的冬奥运动员。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 5735,
+        "sent": "每次当我回到家时，从来也没有再见到那个向我飞扑过来的狗，也从没忘记那个向我撒娇。认人心软的狗，我家的那地地毯也被妈妈洗了，也看不见那让我永远忘不掉的梅花。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余",
+            "虚词多余",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 8885,
+        "sent": "老师刚说，话音未落就见我们消失在果树之中，果树上都是橙子，我们8人分成4组，两人两把剪刀一个栏子，我们两人一起行动，另一人是小宇，我的好兄弟，",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 5342,
+        "sent": "我不仅从一个小学生变成了初中生，我也懂得了如何去诊惜生活中的每分每秒。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 3774,
+        "sent": "记忆的盒子瞬打开，把我拉回了相片中的时间。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺字漏字"
+        ]
+    },
+    {
+        "sent_id": 2474,
+        "sent": "先从后面偷偷摸摸进去，先是杀了两个厨房里的仆人，后是把”老的小的“通通“砍掉”，刀都能砍卷了。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明"
+        ]
+    },
+    {
+        "sent_id": 2812,
+        "sent": "回溯历史，君不见太史公司马迁谨等父亲命训，恪守《命于训》之家风教诲，终写成被誉为“史家之学唱，天蕴之《离骚》”，于青史留下重要的一笔。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点",
+            "错别字错误",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 3602,
+        "sent": "还记得那天，董晨欣说她买了本《山海经》里面各路神仙怪物都有，最主要的是都非常丑。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 145,
+        "sent": "狗狗事件不值一提了，但我奶奶您辛苦了，我以念念不忘的这件事来以此激励自己坚持走下去不让您老人家失望。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "主语多余",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 511,
+        "sent": "绵风微掠，缕缕清香经了夏风吹漾和水波的摇拂，悠悠荡至心间，仿佛隐约远山淡淡轮廓中渺茫的笛声。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 25,
+        "sent": "仙人掌是生活在南北回归线之间的沙漠里。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 6060,
+        "sent": "坐在车上，望见奶奶给我的袋子里有一瓶牛奶。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 1298,
+        "sent": "也就是说，光鲜亮丽的背后，总会有一段艰辛的奋斗与自强不息的奋斗。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 8356,
+        "sent": "人类文明走过数万年的沉淀，将智慧的结晶浓缩在书中。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 6001,
+        "sent": "它们，为了生命能在这寒冬中存活，挺立起了身躯，多像那一个个为了生活坚苦奋斗的人们！",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 6153,
+        "sent": "我挑战了自己、战胜了自己、突破了自己！",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 5062,
+        "sent": "这次的期中考试，我终于让徐老师欣慰，尽管不是班里最高分，但也达到了很大的进步。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 2544,
+        "sent": "2007年10月24日的那天不仅是中国机械工程的第一所任务，承载了探月卫星成功发射，也是我出生的日子，因为这天的重要性，所以我的名字也与它息息相关——张宇航。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "错别字错误",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 9341,
+        "sent": "我还要感谢我的同学，回忆着我的初中时光，我的脑海总映放着各位同学与我一起学习、进步、相互帮助的画面，大家总争着第一，早早的踏入校园，用行动书写着“一年之计在于晨”。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 1630,
+        "sent": "十年前，一位四十岁的女人带着儿子踏进我们的小区，女人脸上挂着一副眼镜，隐藏住她那小小的眼睛，泛黄的头发里混入了几根白发，背上背着大书包，手上提着行李箱，她儿子眼睛大大的，脸小小的，肉嘟嘟地，长的一点也不像她。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 9556,
+        "sent": "做到以上两点，相信大家的文笔更至于精神都能有极大的进步。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 7397,
+        "sent": "那黑酸酸的树影，在这样的夜色下隐隐约约，看不太真切。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 1874,
+        "sent": "而且日军在占领南京后，对南京的居民进行了血腥大屠杀，仅仅一周，30万手无寸铁的居民和放下武器士兵就被屠杀了。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分残缺"
+        ]
+    },
+    {
+        "sent_id": 480,
+        "sent": "“她。是一个坚强，坚持不懈，勇敢拼搏的人。希望大家也能习一下她那些优秀的精神品质，争做一名新时代的好少年！无论是学习还是生活上，都要像她一样，”赢在家门口“，取得成功！",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点",
+            "缺字漏字"
+        ]
+    },
+    {
+        "sent_id": 7579,
+        "sent": "由此可见，真正的读者外界影响，专心致志的人，但是，你捧着书，像他们一样，就成为读者了吗？",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 106,
+        "sent": "我是本次云旅游的导游--新新，今天我们所要参观的是中华古城--南京，共同沉浸于金陵之古韵。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分残缺"
+        ]
+    },
+    {
+        "sent_id": 9454,
+        "sent": "说话讲究技巧不仅为了别人也为了你，你说话若是不好听，别人还会愿意与你交往吗？",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 9385,
+        "sent": "在我初二暑假时，我把厚厚的暑假作业写完后我心里就只想着如何去奖励自己了。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 2865,
+        "sent": "不久，到了饭店，我果然是天生的吃货，纵使再不情愿，也还是被满桌的菜吸引了眼球。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 7577,
+        "sent": "正如我文章开头的景象，也许有的人靠在躺椅上，依旧是无法静下心来，可在书读着发觉它乏味，索性就放弃不读，换一本读，甚至犹于环境的舒适，他们还会昏睡过去，而这样的人，充其量只是“正在放松的人”，而决非读者。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "语序不当",
+            "其他成分残缺",
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 8175,
+        "sent": "其实这就是实践的可贵，知识终归是抽象的概念，不化为行动徒劳无用，同时实践也要检验真理的唯一标准，通过尝试与探索能够更加深入地了解知识的本质，“纸上得来终觉浅，绝知此事要躬行”，实践出真知。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 1059,
+        "sent": "中华民族的历史长河滚滚不息，流过了五千年的漫长当月，见证了华夏文明的璀璨瑰丽，也记录了无数王朝的更迭兴衰。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 5425,
+        "sent": "相信大家都看过冬奥会了吧，你们一定印象深刻的中国冬奥选手，他们在本届冬奥会上大显伸手，取得了由史以来最好的成绩。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点",
+            "错别字错误",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 4294,
+        "sent": "周五，他的妈妈都要带她去专业训练队训练，从学校到那里要4个小时，这4个小时，她就一直在车上看书，学习，没有一次报怨累。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 4287,
+        "sent": "比外她还夺得了冬奥会上的女子自由式滑雪U型场地的金牌和女子自由式滑雪坡面障碍技巧的银牌。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 6809,
+        "sent": "在一次阴差阳错之下我成功地获得了加入中国共青团的的欲选名额，被要求参加中国共青团团课，争取早日进入共青团。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "虚词多余",
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 1060,
+        "sent": "小学毕业那天，我有幸亲眼见证了兵马俑这一令人震撼的历史瑰宝。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 4081,
+        "sent": "可能仍有人质疑，吴用的武义并不高强，甚至令人感觉有些柔弱，不能像鲁智深一样去保护自己，",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 3016,
+        "sent": "走后还惦念金氏父女应己逃走，心中大喜。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明"
+        ]
+    },
+    {
+        "sent_id": 9030,
+        "sent": "刚进初中之时，曾占据班级前十之位，已是超越大多数人，但就有些懈怠，可在如此紧张的初中生活中，犹如一片波涛汹涌的大海之中来回在一片片砖块上跳跃，一不小心便会名落孙山。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "其他成分残缺",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 4304,
+        "sent": "我们抄小道到老门东，正好，就在我热得快趴到地上时，“救星”出现了，一家小卖铺。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 9895,
+        "sent": "所以，毅力对于一个向往成功的人是十分重要的，杨根思说过“就是有九十九个困难，只要有一个坚强的意志就不困难。”",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分残缺",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 646,
+        "sent": "黎明时分，作为一片花瓣，我来到了南京，见征了南京历史的悠久和人文景观，作为一片花辨，我也在南京的梧桐树下与南法这个城市一起睡着了。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "错用标点",
+            "缺少标点",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 5085,
+        "sent": "这是老班在日常行为上对我们的管辖，虽然脾气暴躁但老班的学习精神值得学习。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "动宾搭配不当",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 9018,
+        "sent": "著名的音乐家贝多芬，在音乐上有着极高的天赋，却在最得意时，他失聪了。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 2318,
+        "sent": "正是因为他有着乐观向前，活在当下的心态，没有沉侵在以往安享的生治中，而是靠着自己闯出一片天地。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 1704,
+        "sent": "我无意间的抬头，我看到了电线杆前站了一个身形佝偻的清洁工。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 2162,
+        "sent": "“彼方尚有荣光在”选好青春赛道努力拼搏，走好自己的路。别选好走的路。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 5296,
+        "sent": "那天晚上，雨下得那般大，雨“哗哗啦啦”滴在外面的台子上，早晨起来，就淅淅沥沥的，“春天终于要来啦！”",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 5245,
+        "sent": "这样的人同学面前倒是大方了，可内心终究还是迟早得用明朗的笑声去面对。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分残缺",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 7891,
+        "sent": "但我身上没钱，我咽了咽口水，只好顶着饥饿与亲爱的美食“拜拜”。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 9014,
+        "sent": "因难就更多了，牛顿被苹果为什么会从树下掉下来感到困惑，最后研究出了万有引律；李时珍为百姓疾病困浇，走遍天下，最后完成了《本草纲目》；司马迁克服了在狱中的种种痛苦，完成了千古名著《史记》。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 5150,
+        "sent": "我其实只想对这种人说一句话：“当有一天，早上没有人喊醒你，放学没有人接你，有里只有冷冰冰的家具和你，Pleasetellme!这是自由？还是孤独。”",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 9393,
+        "sent": "逐渐这也成为了我的习惯，这与之前“黑暗”的我是完全不一样的！",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 9052,
+        "sent": "一个人如果只读书，不实践，那么只能书呆子。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 5225,
+        "sent": "过了一会同学和刚才在旁边跟我们说话的老大爷跑了进来，老大爷手里提着医疗箱，他问我：“你的情况我以经知道了，接下来我会帮你治疗，可能会有点疼”。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "错用标点",
+            "缺字漏字"
+        ]
+    },
+    {
+        "sent_id": 2898,
+        "sent": "走过一段墓道，面前同样的白石蓝瓦的单檐歇山式建陵门。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 7015,
+        "sent": "从这一件事我可以看出，武松的勇猛忠义、侠肝义胆、仗义诚信，如果我是他的朋友，他一定会在现实生活中帮助我面对困难，也会对朋友用心、不欺骗我，他是一个有良心敢作敢当的斗士，在生活中我会向他学习。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 2845,
+        "sent": "在出生之前，爸爸妈妈给我取了小名“开心”，据说，这个创意风靡妈妈的班公室，我妈以前同事的孩子，许多是“高兴”之类。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 6887,
+        "sent": "《傅雷家书》收录了1954年到1966年间傅雷夫妇写给两个儿子的家信一百多封，",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 4816,
+        "sent": "我有些难受的看着那位大爷——我一直乐意去他那打饭。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 9048,
+        "sent": "真正的读者并不是看'书'的人，而是专心致志地投入进去并从书中得到启发。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 6275,
+        "sent": "一阵风吹过，树枝微微作响，仿佛在感冬关心。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺字漏字"
+        ]
+    },
+    {
+        "sent_id": 2558,
+        "sent": "愿我的家乡广西越来越繁荣，也愿祖国越来越富强，完成伟大复兴！",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 9881,
+        "sent": "”生命只有一次，污的畅快淋漓，未米米日方长保持好心情”她飞奔回到家，不顾那厚湿的大衣，在白张上下写开头。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺",
+            "错别字错误",
+            "缺少标点",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 6791,
+        "sent": "它确实可以简化成“走”，但其实这两个词根本上的区别是：前进是主动的状态，它包含着对生活的的热情和积极；而走则是麻木与被动的。仿佛根本无所谓自己踏上的路。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 4024,
+        "sent": "阳光是暖的，它是有亲情味儿的。这是一条与远在天堂的爷爷相接的纽带。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点",
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 8698,
+        "sent": "然我想说，并不是所有书籍都有能力完成承载读者，如同一艘船一样驶向对生活、对人类、乃至对社会的思考的海面的。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "缺字漏字"
+        ]
+    },
+    {
+        "sent_id": 4394,
+        "sent": "他是我们中华民族的重要建设者，也为中华人民共和国在国际舞台上站稳脚步做出了巨大贡献。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 9250,
+        "sent": "在亭下有一处泉水，用这一处的泉水酿酒，酒香且清，是可谓上品。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 4307,
+        "sent": "惊天动地的大事，我在一旁看着妈妈，妈妈的脸上露出不解的神情。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 4927,
+        "sent": "忽然“嗒”一声微弱的脆响雨滴落入了小水坑中，凌霄花又抬起了头，皱巴巴的小脸，却偏苦涩涩地笑着，雨势渐停，方才显得粉白的苦笑，又有了红润的喜色，轻抖身上的雨珠，挺直了腰板。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "缺少标点",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 8714,
+        "sent": "一天下来，做完作业后总会回想起那些发挥失常，粗心大意的瞬间。信心也随之流失。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点",
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 3626,
+        "sent": "就算风吹日晒、大雨滂沱，依然向上拼搏，顽强开放。在同一个花丛中彼此搀扶，无畏风雨。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点",
+            "主语不明"
+        ]
+    },
+    {
+        "sent_id": 7444,
+        "sent": "你见过大风大雨，得过许多奖励，即使一模的失败使你错过了特招的机会，但你仍要不屈不挠，勇往直前，奋力一搏，记住，中考才是这段马拉松的终点。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 4689,
+        "sent": "具体时间早已记不清了罢，却记得那天晴空万里，骄阳似火。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余",
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 9808,
+        "sent": "大家好，我是今天的阳光小导游新新，由我来带领大家寻访北京的天安门广场。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 2434,
+        "sent": "如果你在我们学校看见一位头发披着，戴着眼镜，基本每次见她都穿着牛仔裤，说话温柔的那就是我们唐老师，",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余",
+            "语序不当",
+            "主语不明"
+        ]
+    },
+    {
+        "sent_id": 9403,
+        "sent": "“千磨万击还坚励，任尔东西南北风。”就让我们一起自强不息，乘着自强的大船驶向成功的彼岸！",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 1424,
+        "sent": "她于是一脸骄傲起来。越发肯定自己的想法。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 1908,
+        "sent": "我反驳道：“青春不是用来欣赏的吗？正值年轻，不应该去那些年迈时看不到的风景，做那些年迈时做不了的事情吗？",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 1077,
+        "sent": "她脸不大，带上眼镜后更为娇小，与众不同的是，她带上眼睛似乎更有神了。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 4792,
+        "sent": "比知识，也正如那句古话“腹有诗书气自华。”",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 5454,
+        "sent": "他加了，这时候他的目的已经改变。不是冠军，不是三连冠，是自己的梦想，人类的极限。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分残缺",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 2847,
+        "sent": "而我的爸爸在一家厦门的公司上班，名字叫英华达，后来，不知怎的的，所以经常不在家。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "虚词多余",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 7280,
+        "sent": "阅读还能充实你的知识，当你登上了泰山，有人会说啊，真美，而你会说，会当凌绝顶，一览众山小，这感是不是立马就不一样了？",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点",
+            "缺少标点",
+            "缺字漏字"
+        ]
+    },
+    {
+        "sent_id": 4499,
+        "sent": "我与他相识不久，只记得他是单眼皮，一双水汪汪的大眼睛，和一张能说会道的嘴巴。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 2392,
+        "sent": "当鲁迅先生赞美东北人民的奋斗与抗争、当青年人，农民们读见先生的文章，他们的思想就在一刻间共通了，行为的不同恰反应出精神的相同，信念的一致恰指引了行动的分別。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "其他搭配不当",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 8798,
+        "sent": "具体来说，英雄是技艺超群，无私奉献，不畏艰险而拼搏的人。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 5987,
+        "sent": "走近些看，原来是几位环卫工爷爷，为了避免路面结冰酿成危险，正在忙着铲雪，我特意路过他们的身旁，看到一双双慈祥的眼镜。一张张苍老，布满皱纹，饱经风霜的脸。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点",
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 7323,
+        "sent": "由于电子商品无论如何多少都有一定的蓝光，电子阅读次数多了，它会伤害你的眼睛，使其视力下降；而若是阅读纸质书，那你不用担心这一问题。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 5594,
+        "sent": "也许就是这样的您，可能也只有您能把我身边的那个傲娇的，从不听话敢去校长室的小公主归于您自己，让她对您百般温顺，小学的六年时光，只有您让我全身心得放下防备，放心的把自己的后背交给您。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "错用标点",
+            "虚词多余",
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 6621,
+        "sent": "应多读一些有内涵，有价值的名著，提升自己的文学素养，去感受大家们笔下的人物形象与答与其中的名言，如鲁迅笔下的阿Q，代表了当时封建主义的种种缺点，表达对封建社会的批判，用一个人仅巧妙代表了当时的整个社会风气。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "成分搭配不当型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余",
+            "语序不当",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 4264,
+        "sent": "我也不敢说什么，心里也挺烦，就直接下楼了，连声招呼都没打。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 5969,
+        "sent": "香槟色的天空像半透明的绸布铺在了大气中，只有在顶部还嵌进几抹浅蓝，浅蓝下是几朵似有似无的白云，它们聚得很快，散得也很快，像极了我们在一起的短短的三年，",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 7330,
+        "sent": "为了进一步为你们解答，如下是我向大家发起的倡仪：",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 5306,
+        "sent": "一天我气冲冲回到房间，一抬头望见了那被雨打击一天一夜的多肉，对不起我的多肉，对不起我的家人。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 5018,
+        "sent": "虽说他只是这本书中配角，但人气与热度却远远超过了两位男主，而我想这其中的原因应该就是他坎坷而又悲惨的一生了吧。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 4261,
+        "sent": "——平时不怎么交流，也不知道有什么话该说，在一起小时候还能玩一玩，长大了也不知该玩啥了，",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 570,
+        "sent": "若一开始便弃了，唯一的抓手弃掉，后面的一切都是空中楼阁。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 1496,
+        "sent": "此外，对于机会不要盲目。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 71909,
+        "sent": "我们班的同学们都非常喜欢上体育棵。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 54775,
+        "sent": "春天来了，花儿都开了，小草也绿了鸟儿在天空中飞翔。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "缺字漏字"
+        ]
+    },
+    {
+        "sent_id": 87921,
+        "sent": "我今天早上起床后发现外面下起了大雨、我就赶紧穿上了雨衣。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 86416,
+        "sent": "妈妈说，要多吃蔬菜水果才能健康地成长。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺字漏字",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 81742,
+        "sent": "今天的天气非常好阳光明媚，我和朋友去公园里放风筝。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "主语不明"
+        ]
+    },
+    {
+        "sent_id": 64593,
+        "sent": "放学后，和同学们一起去了图书馆。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明"
+        ]
+    },
+    {
+        "sent_id": 13856,
+        "sent": "每天早上起来做早操能让身体更健康、精神更好。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 40893,
+        "sent": "通过这次活动让我们受益匪浅",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 61790,
+        "sent": "在老师的帮助下，我学会了如何解决数学难题很多方法",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "宾语残缺",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 48606,
+        "sent": "昨天晚上看了非常有趣的书但是忘记是什么名字了",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺字漏字",
+            "谓语残缺",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 82203,
+        "sent": "通过这次运动会，我和同学们的友谊更加深厚了，并且我们都非常开心。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 84141,
+        "sent": "我昨天去了图书馆借书，发现了一本非常有趣的科幻小说，这让我非常兴奋地读了起来，它真是太棒了。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 88491,
+        "sent": "小明是一个热爱运动的人他经常参加篮球比赛并且还经常练习打乒乓球。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 85411,
+        "sent": "在学习上我们需要努力拼搏，在生活上也一样，只有这样我们的未来才会更加美好。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 72787,
+        "sent": "老师布置的家庭作业很多，但是我觉得做这些作业可以巩固课堂所学的知识，使我的成绩得到提高，因此我很乐意去完成它们。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余",
+            "语序不当",
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 85780,
+        "sent": "我最喜欢的季节是秋天，因为秋天的气候既凉爽又舒适让我感到非常开心。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 32253,
+        "sent": "老师昨天布置了作业，写一篇关于自己理想职业的文章，结果却没说清楚要求是什么。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语多余",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 34377,
+        "sent": "今天的天气非常的好，我和朋友们一起去公园玩得非常愉快地。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 75109,
+        "sent": "这次春游我们去了一个美丽的地方风景优美空气清新。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "虚词多余",
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 80786,
+        "sent": "在学习上我们要努力刻苦争取获得好成绩为班级争光。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺字漏字",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 33300,
+        "sent": "我昨天去公园玩了，看到一只可爱的小狗在追着自己的尾巴跑，它非常开心的样子。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "主语不明"
+        ]
+    },
+    {
+        "sent_id": 66784,
+        "sent": "老师说我们应该努力学习，未来才能有机会实现自己的梦想为了达成目标我们需要付出努力。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 42817,
+        "sent": "今天的天气非常好让人感到非常愉快我们决定去郊外野餐。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 94613,
+        "sent": "小明的妈妈经常告诉他要多吃蔬菜水果，因为这些食物对身体有益于健康。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 40452,
+        "sent": "这次考试的成绩非常差，我需要加强复习，争取下次能够取得更好的成绩，而且还要多参加课外活动锻炼身体提高综合素质。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "其他成分多余",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 67928,
+        "sent": "我每天都会阅读很多书藉，因为读书可以让我更聪明。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 74029,
+        "sent": "今天的天气非常的好，我和朋友们一起去公园玩了几个小时。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 63161,
+        "sent": "放学后我在图书馆里学习到很晚忘记吃晚饭结果感到十分的饿。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 41494,
+        "sent": "老师说，这次考试成绩非常重要希望同学们能够努力复习。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 17834,
+        "sent": "我们学校最近开展了环保活动让校园变得更加美丽而干净。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "主语不明",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 93559,
+        "sent": "因为今天天气好，去公园散步。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明"
+        ]
+    },
+    {
+        "sent_id": 12464,
+        "sent": "学习英语对提高我们的国际视野很重要。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 71036,
+        "sent": "虽然这次考试成绩不好但我会更加努力。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 51332,
+        "sent": "在图书馆里看书是一件很享受的事让人心情愉悦。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "其他成分残缺"
+        ]
+    },
+    {
+        "sent_id": 68425,
+        "sent": "经过长时间的努力我终于学会了游泳这项技能。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 86899,
+        "sent": "虽然天气炎热，但是我们还是去参加了运动会，并且我们大家都玩得很开心。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 54823,
+        "sent": "因为今天早上起得特别早的原因导致我感到非常疲劳。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 59370,
+        "sent": "昨天晚上我和妈妈一起去超市买了很多东西回来的。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 93413,
+        "sent": "春天来了大地变得生机勃勃起来让我们一起去踏青吧。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 99400,
+        "sent": "通过这次实验，我不仅学到了很多知识的同时也锻炼了我的动手能力。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 67221,
+        "sent": "我今天吃了饭后，决定去公园散步并且看看书。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 77922,
+        "sent": "他昨天买了一本书并把它放在了桌子上就离开了房间去超市购买食品。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "语序不当",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 19818,
+        "sent": "我们班的同学都努力学习为了提高成绩和获得更多的知识以备将来之用。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 12413,
+        "sent": "虽然天气不太好，但是我和我的朋友还是选择了出去玩而没有待在家里写作业。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺",
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 41415,
+        "sent": "对于这次考试的结果我很不满意所以决定以后要更加努力地复习来准备下次测试。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误",
+            "成分赘余型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余",
+            "语序不当",
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 41049,
+        "sent": "我昨天去了公园，看到了美丽的花儿们、听见了小鸟唱歌声音非常悦耳。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 68651,
+        "sent": "老师讲课时总是很认真使我们都能听懂每个知识点让学习变得容易。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "语序不当"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "谓语残缺",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 56714,
+        "sent": "在周末的时候我喜欢去图书馆看书可以让我学到很多知识。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 30288,
+        "sent": "小明跑步非常快他跑得比班上其他同学都还要更快得多。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余",
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 59370,
+        "sent": "放学后我和朋友一起去打篮球由于天气太热我们决定去游泳池游一会儿泳。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺字漏字",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 49059,
+        "sent": "我昨天去了公园玩得很开心，特别喜欢那的花丛。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺字漏字"
+        ]
+    },
+    {
+        "sent_id": 29387,
+        "sent": "小明和他的朋友们在操场上踢球,他们玩儿地非常高兴。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 80531,
+        "sent": "妈妈说:“今天天气真好我们去逛街吧”",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 61161,
+        "sent": "放学后，我和同学一起去图书馆看书、学习了好久。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 42420,
+        "sent": "他不仅学习成绩优秀而且乐于助人是大家公认的。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 76775,
+        "sent": "通过这次活动让我学到了很多知识。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明"
+        ]
+    },
+    {
+        "sent_id": 35195,
+        "sent": "老师经常讲我们应该怎样做人的道理，但很少有具体例子说明。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 95607,
+        "sent": "放学后，我去了图书馆借几本书回家看。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 15774,
+        "sent": "昨天我和妈妈一起去买菜回来煮晚饭吃",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分残缺",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 88834,
+        "sent": "虽然天气很冷但是我们还是决定去公园玩儿没有带厚衣服。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "缺少标点",
+            "其他成分残缺"
+        ]
+    },
+    {
+        "sent_id": 17029,
+        "sent": "昨天我和小明一起去公园玩,他带了风筝和足球我们一起玩得很开心。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 87927,
+        "sent": "老师讲了故事之后同学们都听得很认真但是还是有一些同学在下面偷偷讲话。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 67085,
+        "sent": "我最喜欢的小动物是小狗因为小狗很可爱而且对人类非常友好可以成为好伙伴。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 97589,
+        "sent": "为了能够更好的学习英语所以我要每天坚持背单词和阅读英文文章。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "谓语多余",
+            "主语不明"
+        ]
+    },
+    {
+        "sent_id": 43165,
+        "sent": "秋天的田野里一片金黄麦田里充满了丰收的气息农民伯伯们正在忙碌地收割。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 55750,
+        "sent": "我昨天去公园跑步，感觉身体很轻盈了。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 58735,
+        "sent": "通过这次活动让我们更加了解大自然的美丽。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 64757,
+        "sent": "他虽然生病了但还是坚持上完了所有的课程因为学习对他来说非常重要。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "语序不当",
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 47092,
+        "sent": "为了提高自己的英语水平，小明每天都在努力着学习单词和语法练习很多。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语多余",
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 39980,
+        "sent": "秋天到了校园里充满了落叶金黄一片非常漂亮。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "宾语残缺",
+            "语序不当",
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 35725,
+        "sent": "我们班的同学们都非常勤奋学习，经常到图书馆借阅书籍和资料。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 90506,
+        "sent": "昨天老师给我们讲了很多关于环保知识，希望大家都能从自己做起爱护环境。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 14025,
+        "sent": "我最喜欢的季节是秋天因为它不仅美丽而且凉爽可以去很多地方游玩。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 62457,
+        "sent": "每次考试前我都非常紧张，虽然知道这样对成绩没有帮助反而可能会影响发挥所以总是提醒自己放松。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺",
+            "虚词多余",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 23232,
+        "sent": "在操场上我和朋友们一起踢足球传球射门玩得非常开心直到太阳落山才依依不舍地回家。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "缺字漏字",
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 89269,
+        "sent": "我昨天看玩了一个非常有趣的小说。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 13394,
+        "sent": "公园里鲜花盛开美丽极了真是个好地方。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "缺字漏字"
+        ]
+    },
+    {
+        "sent_id": 50202,
+        "sent": "小明的数学成绩很好因为他经常刻苦学习",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "谓语多余"
+        ]
+    },
+    {
+        "sent_id": 86636,
+        "sent": "老师表扬了小红的学习态度这使她感到非常高兴。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 24772,
+        "sent": "昨天我和朋友一起去公园玩了我们玩得很开心。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点",
+            "主语多余",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 52248,
+        "sent": "老师布置的作业我还没完成，感觉时间不够用。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 82106,
+        "sent": "通过这次考试我学到了很多知识，但还是有些题目不会做很遗憾。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 17144,
+        "sent": "每天早上都起得很早跑步锻炼身体虽然有点累但是很开心。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 30485,
+        "sent": "学习上遇到困难时不应该放弃而是要勇敢面对努力克服。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分残缺",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 66915,
+        "sent": "我们班的同学都很团结合作能力很强经常一起参加各种活动。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "其他成分多余",
+            "缺字漏字"
+        ]
+    },
+    {
+        "sent_id": 42300,
+        "sent": "我每天早上都喜欢去公园跑步锻炼身体的活动。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 24078,
+        "sent": "他非常喜欢打篮球，而且他也很喜欢游泳。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 68180,
+        "sent": "我和我的朋友们昨天去了图书馆看书，在那里我们读了很多书的故事。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 65292,
+        "sent": "老师说这个周末我们要去参观博物馆，于是我们都感到非常兴奋地。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语多余",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 30432,
+        "sent": "春天来了，花开的季节到了，大家都喜欢出去踏青游玩活动。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余",
+            "虚词多余",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 76648,
+        "sent": "我昨天去了图书馆借了许多关于科学的书，读了后觉得非常有趣地。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 57207,
+        "sent": "老师说，我们不仅需要学习知识也必须学会如何运用它们到实际生活中去。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余",
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 60733,
+        "sent": "经过这次活动，让我们更加了解团结的力量有多么重要。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "其他成分残缺",
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 68087,
+        "sent": "我喜欢在公园跑步因为那里空气新鲜而且风景优美很适合放松心情。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 10761,
+        "sent": "虽然天气很热大家还是坚持完成了长跑比赛并且取得了好成绩。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺",
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 60432,
+        "sent": "虽然天气十分炎热，我们还是去公园里跑步了因为运动可以让人健康。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "谓语多余"
+        ]
+    },
+    {
+        "sent_id": 56888,
+        "sent": "今天的足球比赛非常精彩我支持的队伍赢了大家欢呼雀跃。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 39677,
+        "sent": "放学后去了图书馆看了很多书觉得收获很大心里很高兴。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "缺少标点",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 92534,
+        "sent": "昨天我和朋友去电影院看电影看到一半发现电影票找不到了真是倒霉极了。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 59136,
+        "sent": "通过这次考试使我对学习有了新的认识。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 29700,
+        "sent": "秋天来了，树叶从树上掉下来了。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺字漏字"
+        ]
+    },
+    {
+        "sent_id": 86861,
+        "sent": "他每天早上跑步之后，都会感到身心愉快和放松。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 39801,
+        "sent": "我最喜欢的季节是春天因为那时的花儿都开了。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "缺少标点",
+            "主语不明"
+        ]
+    },
+    {
+        "sent_id": 82289,
+        "sent": "这次考试的结果让我非常满意它证明了我的努力没有白费。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 35017,
+        "sent": "小明昨天去公园玩发现了一只可爱的小猫。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "宾语残缺",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 12663,
+        "sent": "放学后，去图书馆看书，然后回家。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明"
+        ]
+    },
+    {
+        "sent_id": 29812,
+        "sent": "虽然天气很冷但还是坚持每天早晨跑步。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 35716,
+        "sent": "我昨天去了公园玩，和朋友一起很开心但是没有拍照片留念。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 74317,
+        "sent": "在老师的指导下学习了很多知识对我的帮助很大。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 84687,
+        "sent": "昨天晚上写作业到很晚忘记吃饭感觉非常饿而且很累。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "谓语残缺",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 67380,
+        "sent": "我昨天去了图书馆借书了，因为我想看一本关于自然的书所以我就去了。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 13384,
+        "sent": "春天来了，天气变得暖和起来了，我和我的同学们都感到非常的开心地一起去公园玩。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 52982,
+        "sent": "虽然小猫很可爱但是它经常把家里的东西弄乱所以我不太喜欢它其实也还好啦毕竟它只是个宠物嘛。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "主语多余",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 83564,
+        "sent": "老师说今天的作业是写一篇有关于秋天的小作文，因此我们大家都非常认真地开始写作了起来。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语多余"
+        ]
+    },
+    {
+        "sent_id": 37417,
+        "sent": "我喜欢吃水果例如苹果啊香蕉啊还有西瓜它们都是我最爱的食物。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺字漏字",
+            "虚词多余",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 69921,
+        "sent": "我昨天去了图书馆借了书，因为我想增长知识。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 21972,
+        "sent": "虽然天气炎热，但是我们还是去操场跑步了并且锻炼身体。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺",
+            "虚词多余",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 51320,
+        "sent": "通过这次活动让我认识了很多新朋友，并且也学会了如何与人沟通。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "其他成分多余",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 87821,
+        "sent": "老师的话对我影响很大，使我对学习产生了浓厚兴趣的学习。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他搭配不当",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 48351,
+        "sent": "在回家的路上看见了一只可爱的小狗追着蝴蝶跑。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 29430,
+        "sent": "我昨天去了图书馆借书但忘记带了借书证结果没能借到书。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 52711,
+        "sent": "春天来了，花儿都开了，小草绿油油的，小鸟在枝头欢快地唱歌，真是个美好的季节。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "主语多余",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 87390,
+        "sent": "通过这次考试我认识到自己的不足之处需要改进的地方还很多。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "谓语残缺",
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 10496,
+        "sent": "老师说我们班的学生都很聪明勤奋希望我们可以继续努力取得更好的成绩。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "虚词多余",
+            "其他成分残缺"
+        ]
+    },
+    {
+        "sent_id": 21673,
+        "sent": "今天的天气非常的好，我和朋友们一起去公园里玩耍了很多有趣的项目。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "语序不当",
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 82142,
+        "sent": "我昨天看了一本好书，它让我学到了很多知识。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 14122,
+        "sent": "今天天气真好，我和朋友们一起去公园玩忘记带水了。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 79807,
+        "sent": "小明非常喜欢踢足球，他每天都会去操场训练他的球技不断提高。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 53145,
+        "sent": "我们班的同学都很努力学习，争取在考试中取得好的成绩希望大家都能成功。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 26875,
+        "sent": "昨天我去超市买了很多东西，但回来后发现钱包不见了非常着急。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "主语残缺"
+        ]
+    },
+    {
+        "sent_id": 80162,
+        "sent": "参加这次活动使我们受益匪浅。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明"
+        ]
+    },
+    {
+        "sent_id": 43007,
+        "sent": "喜欢阅读的人，往往能够更深刻地理解生活中的各种现象。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 20618,
+        "sent": "昨天晚上回家的路上看到一个老人摔倒了赶快扶他起来。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺",
+            "缺字漏字"
+        ]
+    },
+    {
+        "sent_id": 13355,
+        "sent": "虽然天气很冷但大家的热情却很高涨都积极参与到活动中来。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分残缺",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 20865,
+        "sent": "老师经常对我们讲学习的重要性一定要努力学习。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语多余",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 46265,
+        "sent": "我昨天去了公园，看见了美丽的花朵儿和小鸟们快乐的歌声，让我心情非常愉快。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 94386,
+        "sent": "我们班上的同学都很喜欢玩篮球，而我是他们中的一员也经常参加比赛。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 99677,
+        "sent": "小明他昨天来我家的时候给我带了一本很好看的故事书它讲述了关于勇敢的小狗冒险的故事。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "主语多余",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 69360,
+        "sent": "春天来临之时，万物复苏，大自然开始展现她那美丽的风景和生机勃勃的样子让我们都感到非常高兴。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 39447,
+        "sent": "妈妈说，吃饭前一定要洗手这不仅是为了保持清洁也是为了我们的健康着想。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺",
+            "虚词多余",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 38571,
+        "sent": "虽然天气很冷，但是我和同学们的热情却非常高涨。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 96646,
+        "sent": "我昨天去了图书馆借了几本书，在回家的路上就迫不及待地看了起来。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 12525,
+        "sent": "今天的足球比赛我们班赢了，老师和我们都感到非常高兴的心情。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余",
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 48684,
+        "sent": "小明学习特别努力，他每天都会做很多练习题直到深夜才会休息。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 17778,
+        "sent": "在公园里跑步不仅能够让人身体健康，还能放松心情，真是个两全其美的选择。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 86351,
+        "sent": "我昨天去了公园，看到了许多美丽的花和鸟儿们歌唱的声音。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 42731,
+        "sent": "老师给我们讲了关于恐龙的知识后我们都很感到很兴奋并期待着下次的课程。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "语序不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "谓语多余",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 46136,
+        "sent": "每天早上锻炼身体不仅使人健康而且还能增强体质但是很多人却忽视它的重要性。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 60887,
+        "sent": "小明在班上非常受欢迎他总是乐于帮助别人并且学习成绩也很好但他的父母希望他能在课余时间多参加一些体育活动。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余",
+            "缺少标点",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 41086,
+        "sent": "经过这次旅行让我对大自然有了更深的理解和认识同时也学会了如何与人相处。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "动宾搭配不当",
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 98695,
+        "sent": "我最喜欢的季节是春天，因为那时候鸟儿们开始忙碌起来。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺字漏字"
+        ]
+    },
+    {
+        "sent_id": 26589,
+        "sent": "放学后我和朋友一起去公园踢足球，在那里我们度过了一个愉快下午。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 53281,
+        "sent": "昨天妈妈带我去市场买了一些新鲜的蔬菜水果；回家后我们一起做饭。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 58370,
+        "sent": "小明是个爱学习的好学生他对每门课都非常认真。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 52419,
+        "sent": "图书馆里很安静大家都在专心致志地读书但偶尔会有人走动。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "主语不明",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 52278,
+        "sent": "放学后去公园玩，看到许多小朋友都很开心。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明"
+        ]
+    },
+    {
+        "sent_id": 31706,
+        "sent": "今天的天气非常的好，我和朋友决定去游泳池游泳",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 70014,
+        "sent": "我昨天去了图书馆借了几本书回家阅读学习新知识。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 80402,
+        "sent": "虽然这次考试成绩不理想，但是我相信通过努力一定可以提高很多。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分残缺"
+        ]
+    },
+    {
+        "sent_id": 25118,
+        "sent": "妈妈说多吃蔬菜对身体有好处所以每天都准备了很多绿色的菜给我们吃。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺字漏字",
+            "虚词多余",
+            "其他成分残缺"
+        ]
+    },
+    {
+        "sent_id": 63674,
+        "sent": "参加这次活动对我影响很大，让我更加热爱大自然的美丽景色，并且还学会了如何保护环境。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 53402,
+        "sent": "虽然天气很冷但大家的热情却非常高涨地进行着篮球比赛。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余",
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 98602,
+        "sent": "我和我的家人一起去公园里散步，享受了美好的一天，非常开心并且感到十分放松。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 31187,
+        "sent": "昨天去了图书馆看了很多书学到了不少知识感觉收获满满。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "谓语残缺",
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 89175,
+        "sent": "通过这次旅行我不仅欣赏了美丽的风景而且也体验了很多有趣的文化活动和风俗习惯。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语多余",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 64277,
+        "sent": "我昨天去了公园看到了许多美丽的花儿，它们的颜色非常鲜艳。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他搭配不当"
+        ]
+    },
+    {
+        "sent_id": 63352,
+        "sent": "老师经常鼓励我们学习努力，争取在考试中取得好成绩。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "语序不当",
+            "缺字漏字"
+        ]
+    },
+    {
+        "sent_id": 32036,
+        "sent": "小明因为生病了所以没有来上学今天，他妈妈打电话给班主任请假。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "语序不当",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 95430,
+        "sent": "这次运动会不仅锻炼了大家的身体还增强了班级的凝聚力使同学们受益匪浅。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余",
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 35152,
+        "sent": "虽然天气炎热但我还是坚持去图书馆看书为了准备期末考试。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "语序不当",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 22249,
+        "sent": "放学后，我和同学们去了图书馆看书，虽然天气很热，但是我们都很开心因为可以学习到很多知识。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 66511,
+        "sent": "我昨天去超市买了一本笔记本打算记录下每天的收获和感想却忘记带钱包了只好向朋友借钱。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 54251,
+        "sent": "今天的语文课上老师讲了关于李白的诗篇他的一生充满了传奇色彩但他的诗歌流传至今仍然被人们喜爱。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "谓语残缺",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 17644,
+        "sent": "通过这次实践活动让我深刻体会到了团队合作的重要性并且学会了很多实用的技能比如如何制作模型等。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明",
+            "其他成分残缺"
+        ]
+    },
+    {
+        "sent_id": 93128,
+        "sent": "春天来了花开遍地香气扑鼻心情特别好就决定和家人一起去公园赏花结果玩得非常尽兴。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "主语多余",
+            "宾语残缺",
+            "其他成分残缺"
+        ]
+    },
+    {
+        "sent_id": 97627,
+        "sent": "我喜欢在公园里跑步，那里有很美得风景。",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 61697,
+        "sent": "虽然这次考试成绩不理想但我会继续努力的",
+        "CourseGrainedErrorType": [
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 62462,
+        "sent": "昨天我和妈妈去超市买了很多东囘家后发现忘买了牛奶。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "错别字错误",
+            "谓语残缺",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 70602,
+        "sent": "我最喜欢的季节是春天因为万物复苏花开遍地。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 10876,
+        "sent": "我们班上的同学都十分友好，他们经常一起学习玩耍而且互相帮助但是有些时候也会发生争执。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "其他搭配不当",
+            "错用标点"
+        ]
+    },
+    {
+        "sent_id": 15164,
+        "sent": "老师布置的作业太难了，同学们都感到非常头疼。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语不明"
+        ]
+    },
+    {
+        "sent_id": 31488,
+        "sent": "参加比赛让我学到了很多知识和经验，收获颇丰。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 48353,
+        "sent": "春天来了，小草绿了大地变得生机勃勃。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分残缺",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 25624,
+        "sent": "昨天去公园玩得非常开心忘带水壶。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语残缺",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 60945,
+        "sent": "我非常喜欢阅读各种类型的书籍丰富了我的知识面。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺字漏字",
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 45069,
+        "sent": "我每天早上起床后就会去锻炼身体，然后回家吃早餐，因为这样可以让我一天都精神饱满的。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 48697,
+        "sent": "在公园里散步的时候，小鸟们唱着歌飞舞着，非常快乐和自由地飞翔，这让人心情舒畅许多。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "虚词多余",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 59885,
+        "sent": "我们班的同学都很喜欢参加学校的运动会，因为这是一个展示自己能力的好机会，而且还能增强班级的凝聚力和荣誉感，所以我们都很积极。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余",
+            "宾语残缺"
+        ]
+    },
+    {
+        "sent_id": 68104,
+        "sent": "昨天晚上我看了一部电影，这部电影讲述了一个勇敢的英雄为了保护自己的家人而与邪恶势力作斗争的故事真是非常感人。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "成分搭配不当型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语多余",
+            "语序不当",
+            "缺少标点"
+        ]
+    },
+    {
+        "sent_id": 60760,
+        "sent": "春天来了，花儿都开了，草也绿了，小鸟也都飞回来了，整个世界好像都变得充满了生机勃勃的样子了。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误",
+            "成分残缺型错误",
+            "字符级错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他成分多余",
+            "缺字漏字",
+            "错别字错误"
+        ]
+    },
+    {
+        "sent_id": 81206,
+        "sent": "我昨天去公园跑步，见到了很多有趣的事情和人。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 99892,
+        "sent": "他不仅学习好，而且乐于助人，因此同学们都称他为是大家的好榜样。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "其他搭配不当",
+            "虚词多余"
+        ]
+    },
+    {
+        "sent_id": 40424,
+        "sent": "这次考试的失败，让我的心情十分沮丧地度过了整个周末。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 86058,
+        "sent": "老师给我们讲了一个很生动的故事后使我们对历史产生了浓厚兴趣。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "动宾搭配不当"
+        ]
+    },
+    {
+        "sent_id": 15505,
+        "sent": "小明虽然平时话不多但他的学习成绩一直很好大家都很佩服他。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 63136,
+        "sent": "通过这次旅行，我不仅看到了美丽的风景，而学到了很多知识。",
+        "CourseGrainedErrorType": [
+            "成分搭配不当型错误"
+        ],
+        "FineGrainedErrorType": [
+            "语序不当"
+        ]
+    },
+    {
+        "sent_id": 69686,
+        "sent": "虽然下雨了但我们还是去了公园玩得非常开心忘记带雨伞的结果全身湿透。",
+        "CourseGrainedErrorType": [
+            "字符级错误",
+            "成分残缺型错误"
+        ],
+        "FineGrainedErrorType": [
+            "缺少标点",
+            "主语不明",
+            "谓语残缺"
+        ]
+    },
+    {
+        "sent_id": 48618,
+        "sent": "昨天晚上看了电影《小鬼当家》，是部非常好笑的喜剧片，我非常喜欢他。",
+        "CourseGrainedErrorType": [
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "主语多余"
+        ]
+    },
+    {
+        "sent_id": 44130,
+        "sent": "春天来了，大地一片生机勃勃的气息，鸟儿们在枝头欢快地歌唱着美丽的歌谣。",
+        "CourseGrainedErrorType": [
+            "成分残缺型错误",
+            "成分赘余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "宾语残缺",
+            "虚词多余",
+            "其他成分多余"
+        ]
+    },
+    {
+        "sent_id": 69462,
+        "sent": "老师的话让我深思良久，使我认识到自己的错误并决心改正它们，以期成为一个更好的学生。",
+        "CourseGrainedErrorType": [
+            "成分冗余型错误"
+        ],
+        "FineGrainedErrorType": [
+            "谓语多余",
+            "其他成分多余"
+        ]
+    }
+]
