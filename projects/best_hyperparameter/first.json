@@ -1,0 +1,33 @@
+{
+  "optimization_completed": "2025-05-27T01:11:22.799482",
+  "total_time_hours": 0.5738606666194068,
+  "total_trials": 600,
+  "completed_trials": 181,
+  "pruned_trials": 419,
+  "best_score": 54.06637613141133,
+  "best_hyperparameters": {
+    "dropout": 0.3135999246870766,
+    "batch_size": 32,
+    "lr": 1.86884655838032e-05,
+    "threshold": 0.31676353792873924,
+    "seed": 3407,
+    "num_experts": 15,
+    "top_k": 1,
+    "expert_dim": 512,
+    "use_separate_moe": true,
+    "load_balance_weight": 0.013540158381723238
+  },
+  "best_trial_number": 542,
+  "base_config": {
+    "model_name": "/mnt/cfs/huangzhiwei/NLP-WED0910/projects/models/bge-large-zh-v1.5",
+    "num_coarse_labels": 4,
+    "num_fine_labels": 14,
+    "max_length": 128,
+    "epochs": 40,
+    "patience": 5,
+    "data_path": "/mnt/cfs/huangzhiwei/NLP-WED0910/datas/train.json",
+    "val_data_path": "/mnt/cfs/huangzhiwei/NLP-WED0910/datas/val.json",
+    "checkpoint_dir": "optuna_checkpoints",
+    "device": "x"
+  }
+}

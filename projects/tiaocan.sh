@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 nohup python /mnt/cfs/huangzhiwei/NLP-WED0910/projects/model_deberta_moe_tiaocan.py &

@@ -5,3 +5,9 @@
 /projects/output.txt
 /projects/grid_search_results
 /projects/grid_search_checkpoints
+/projects/hyperparameter_results_0527moe
+/projects/hyperparameter_results_expert_specialized_0527
+/projects/optuna_results
+/projects/optuna_results_14+4
+*.log
+*.txt

@@ -1,0 +1,29 @@
+{
+  "best_hyperparameters": {
+    "dropout": 0.3539699786445557,
+    "batch_size": 32,
+    "lr": 9.310786347338353e-06,
+    "threshold": 0.3400152113639777,
+    "seed": 3407,
+    "num_experts": 7,
+    "top_k": 2,
+    "expert_dim": 768,
+    "use_separate_moe": true,
+    "load_balance_weight": 0.028760596309131775
+  },
+  "best_6_metrics": {
+    "hierarchical_final_micro_f1": 53.07855626326963,
+    "hierarchical_final_macro_f1": 36.54953440001527,
+    "hierarchical_coarse_micro_f1": 66.66666666666666,
+    "hierarchical_fine_micro_f1": 39.490445859872615,
+    "hierarchical_coarse_macro_f1": 45.652173913043484,
+    "hierarchical_fine_macro_f1": 27.44689488698705,
+    "epoch": 2
+  },
+  "trial_number": 75,
+  "optimization_summary": {
+    "total_trials": 205,
+    "total_time_hours": 1.039113535284996,
+    "optimization_date": "2025-05-27T16:21:37.173724"
+  }
+}
