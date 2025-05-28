@@ -2011,14 +2011,6 @@ class HierarchicalErrorClassifier(nn.Module):
         super().__init__()
         
         self.bert = AutoModel.from_pretrained(pretrained_model_name)
-
-        # 解冻最后四层参数
-        # 冻结BERT底层，保留顶层微调
-        modules = [self.bert.embeddings, *self.bert.encoder.layer[:8]]
-        for module in modules:
-            for param in module.parameters():
-                param.requires_grad = False
-
         self.dropout = nn.Dropout(dropout) if dropout > 0 else nn.Identity()
         self.use_separate_moe = use_separate_moe
         
@@ -2388,17 +2380,17 @@ def optuna_hyperparameter_optimization():
         'num_fine_labels': 14,
         'max_length': 128,
         'epochs': 40,  # 减少epoch以加快调试
-        'patience': 5,
+        'patience': 6,
         # 请修改为你的实际数据路径
-        'data_path': '/mnt/cfs/huangzhiwei/NLP-WED0910/datas/train.json',
+        'data_path': '/mnt/cfs/huangzhiwei/NLP-WED0910/datas/train_new.json',
         'val_data_path': '/mnt/cfs/huangzhiwei/NLP-WED0910/datas/val.json',
-        'checkpoint_dir': 'optuna_checkpoints_update0528',
+        'checkpoint_dir': 'optuna_checkpoints_update0527_hzw',
         'device': device,
         'weight_decay': 0.01
     }
     
     # 创建结果保存目录
-    results_dir = 'hyperparameter_results_0528moe'
+    results_dir = 'hyperparameter_results_0527moe_hzw'
     os.makedirs(results_dir, exist_ok=True)
     
     # 创建数据库存储优化历史
@@ -2568,7 +2560,7 @@ if __name__ == '__main__':
     
     # 检查数据路径
     data_paths = [
-        '/mnt/cfs/huangzhiwei/NLP-WED0910/datas/train.json',
+        '/mnt/cfs/huangzhiwei/NLP-WED0910/datas/train_new.json',
         '/mnt/cfs/huangzhiwei/NLP-WED0910/datas/val.json'
     ]
     

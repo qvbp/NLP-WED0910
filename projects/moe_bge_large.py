@@ -996,10 +996,20 @@ class HierarchicalErrorClassifier(nn.Module):
         super().__init__()
         
         self.bert = AutoModel.from_pretrained(pretrained_model_name)
+
+        # # 解冻最后四层参数
+        # # 冻结BERT底层，保留顶层微调
+        # modules = [self.bert.embeddings, *self.bert.encoder.layer[:8]]
+        # for module in modules:
+        #     for param in module.parameters():
+        #         param.requires_grad = False
+
+
         self.dropout = nn.Dropout(dropout) if dropout > 0 else nn.Identity()
         self.use_separate_moe = use_separate_moe
         
         hidden_size = self.bert.config.hidden_size
+
         
         if use_separate_moe:
             # 为粗粒度和细粒度分类分别使用不同的MoE
@@ -1415,7 +1425,7 @@ def main():
     
     # 数据路径参数
     parser.add_argument('--data_path', type=str, 
-                       default='/mnt/cfs/huangzhiwei/NLP-WED0910/datas/train.json',
+                       default='/mnt/cfs/huangzhiwei/NLP-WED0910/datas/train_new.json',
                        help='训练数据路径')
     parser.add_argument('--val_data_path', type=str,
                        default='/mnt/cfs/huangzhiwei/NLP-WED0910/datas/val.json', 

@@ -11,3 +11,11 @@
 /projects/optuna_results_14+4
 *.log
 *.txt
+/hyperparameter_results_0527moe_hzw
+/hyperparameter_results_0527moe_wyx
+/hyperparameter_results_0528moe
+/optuna_checkpoints_update0527_hzw
+/optuna_checkpoints_update0527_wyx
+/optuna_checkpoints_update0528
+/optuna_results
+/optuna_checkpoints

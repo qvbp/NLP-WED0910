@@ -1,0 +1,42 @@
+{
+  "best_6_metrics": {
+    "hierarchical_final_micro_f1": 54.06637613141133,
+    "hierarchical_final_macro_f1": 35.21990935034413,
+    "hierarchical_coarse_micro_f1": 67.36842105263158,
+    "hierarchical_fine_micro_f1": 40.76433121019109,
+    "hierarchical_coarse_macro_f1": 45.20172346259303,
+    "hierarchical_fine_macro_f1": 25.23809523809523,
+    "epoch": 1
+  },
+  "config": {
+    "data_path": "/mnt/cfs/huangzhiwei/NLP-WED0910/datas/train.json",
+    "val_data_path": "/mnt/cfs/huangzhiwei/NLP-WED0910/datas/val.json",
+    "model_name": "/mnt/cfs/huangzhiwei/NLP-WED0910/projects/models/bge-large-zh-v1.5",
+    "num_coarse_labels": 4,
+    "num_fine_labels": 14,
+    "max_length": 128,
+    "dropout": 0.3135999246870766,
+    "num_experts": 15,
+    "expert_dim": 512,
+    "top_k": 1,
+    "use_separate_moe": true,
+    "load_balance_weight": 0.013540158381723238,
+    "batch_size": 32,
+    "lr": 1.86884655838032e-05,
+    "weight_decay": 0.01,
+    "epochs": 40,
+    "patience": 5,
+    "threshold": 0.31676353792873924,
+    "seed": 3407,
+    "results_dir": "training_results",
+    "checkpoint_dir": "checkpoints",
+    "device": "cuda"
+  },
+  "training_summary": {
+    "total_epochs": 6,
+    "total_time_hours": 0.0031755702363120185,
+    "early_stopped": true,
+    "best_epoch": 1,
+    "training_date": "2025-05-28T01:10:02.734426"
+  }
+}
