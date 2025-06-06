@@ -1,0 +1,31 @@
+{
+  "best_hyperparameters": {
+    "dropout": 0.2662533333733447,
+    "batch_size": 32,
+    "lr": 2.166285281378889e-05,
+    "threshold": 0.3222194647688701,
+    "seed": 3407,
+    "num_experts": 5,
+    "top_k": 3,
+    "expert_dim": 512,
+    "use_separate_moe": false,
+    "load_balance_weight": 0.00033493334061005116,
+    "distillation_alpha": 0.5356845237632237,
+    "distillation_temperature": 13.940735020303595
+  },
+  "best_6_metrics": {
+    "hierarchical_final_micro_f1": 56.04786790880861,
+    "hierarchical_final_macro_f1": 27.61255710013474,
+    "hierarchical_coarse_micro_f1": 71.60493827160495,
+    "hierarchical_fine_micro_f1": 40.490797546012274,
+    "hierarchical_coarse_macro_f1": 39.170692431561996,
+    "hierarchical_fine_macro_f1": 16.054421768707485,
+    "epoch": 6
+  },
+  "trial_number": 1252,
+  "optimization_summary": {
+    "total_trials": 2003,
+    "total_time_hours": 6.499135719537735,
+    "optimization_date": "2025-06-06T04:48:09.166814"
+  }
+}

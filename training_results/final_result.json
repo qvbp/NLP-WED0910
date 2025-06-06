@@ -1,15 +1,15 @@
 {
   "best_6_metrics": {
-    "hierarchical_final_micro_f1": 54.06637613141133,
-    "hierarchical_final_macro_f1": 35.21990935034413,
-    "hierarchical_coarse_micro_f1": 67.36842105263158,
-    "hierarchical_fine_micro_f1": 40.76433121019109,
-    "hierarchical_coarse_macro_f1": 45.20172346259303,
-    "hierarchical_fine_macro_f1": 25.23809523809523,
+    "hierarchical_final_micro_f1": 38.00602208096353,
+    "hierarchical_final_macro_f1": 35.18510553507492,
+    "hierarchical_coarse_micro_f1": 53.06122448979591,
+    "hierarchical_fine_micro_f1": 22.950819672131146,
+    "hierarchical_coarse_macro_f1": 48.849289297658856,
+    "hierarchical_fine_macro_f1": 21.52092177249098,
     "epoch": 1
   },
   "config": {
-    "data_path": "/mnt/cfs/huangzhiwei/NLP-WED0910/datas/train.json",
+    "data_path": "/mnt/cfs/huangzhiwei/NLP-WED0910/datas/train_merged_origin+qwen256.json",
     "val_data_path": "/mnt/cfs/huangzhiwei/NLP-WED0910/datas/val.json",
     "model_name": "/mnt/cfs/huangzhiwei/NLP-WED0910/projects/models/bge-large-zh-v1.5",
     "num_coarse_labels": 4,
@@ -28,15 +28,17 @@
     "patience": 5,
     "threshold": 0.31676353792873924,
     "seed": 3407,
+    "distillation_alpha": 0.7,
+    "distillation_temperature": 4.0,
     "results_dir": "training_results",
     "checkpoint_dir": "checkpoints",
     "device": "cuda"
   },
   "training_summary": {
     "total_epochs": 6,
-    "total_time_hours": 0.0031755702363120185,
+    "total_time_hours": 0.001560001638200548,
     "early_stopped": true,
     "best_epoch": 1,
-    "training_date": "2025-05-28T01:10:02.734426"
+    "training_date": "2025-06-05T22:15:58.047143"
   }
 }

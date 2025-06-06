@@ -19,3 +19,7 @@
 /optuna_checkpoints_update0528
 /optuna_results
 /optuna_checkpoints
+/hyperparameter_results_0605_bge+qwen256
+/hyperparameter_results_0605moe_change
+/hyperparameter_results_0605moe_hzw
+/optuna_checkpoints_update0605_hzw

@@ -2083,11 +2083,13 @@ class HierarchicalErrorClassifier(nn.Module):
             total_load_balance_loss = shared_lb_loss
         
         # 粗粒度分类
-        coarse_logits = self.coarse_classifier(pooled_output)
+        # coarse_logits = self.coarse_classifier(pooled_output)
+        coarse_logits = self.coarse_classifier(coarse_features)  # 使用MoE输出
         coarse_probs = torch.sigmoid(coarse_logits)
         
         # 细粒度分类
-        fine_logits = self.fine_classifier(pooled_output)
+        # fine_logits = self.fine_classifier(pooled_output)
+        fine_logits = self.fine_classifier(fine_features)  # 使用MoE输出
         fine_probs = torch.sigmoid(fine_logits)
         
         return coarse_probs, fine_probs, total_load_balance_loss
@@ -2132,14 +2134,14 @@ def train_single_config_for_optuna(trial, base_config, results_dir):
     params = {
         'dropout': trial.suggest_float('dropout', 0.0, 0.4),
         'batch_size': trial.suggest_categorical('batch_size', [8, 16, 32]),
-        'lr': trial.suggest_float('lr', 1e-6, 5e-5, log=True),
-        'threshold': trial.suggest_float('threshold', 0.3, 0.8),
+        'lr': trial.suggest_float('lr', 1e-6, 1e-4, log=True),
+        'threshold': trial.suggest_float('threshold', 0.2, 0.8),
         'seed': trial.suggest_categorical('seed', [42, 3407, 2023]),
         'num_experts': trial.suggest_int('num_experts', 4, 16),
         'top_k': trial.suggest_int('top_k', 1, 4),
         'expert_dim': trial.suggest_categorical('expert_dim', [256, 512, 768, 1024]),
         'use_separate_moe': trial.suggest_categorical('use_separate_moe', [True, False]),
-        'load_balance_weight': trial.suggest_float('load_balance_weight', 0.001, 0.1, log=True)
+        'load_balance_weight': trial.suggest_float('load_balance_weight', 0.0001, 0.1, log=True)
     }
     
     # 设置随机种子
@@ -2384,13 +2386,13 @@ def optuna_hyperparameter_optimization():
         # 请修改为你的实际数据路径
         'data_path': '/mnt/cfs/huangzhiwei/NLP-WED0910/datas/train_new.json',
         'val_data_path': '/mnt/cfs/huangzhiwei/NLP-WED0910/datas/val.json',
-        'checkpoint_dir': 'optuna_checkpoints_update0527_hzw',
+        'checkpoint_dir': 'optuna_checkpoints_update0605_hzw',
         'device': device,
         'weight_decay': 0.01
     }
     
     # 创建结果保存目录
-    results_dir = 'hyperparameter_results_0527moe_hzw'
+    results_dir = 'hyperparameter_results_0605moe_hzw'
     os.makedirs(results_dir, exist_ok=True)
     
     # 创建数据库存储优化历史
