@@ -1,12 +1,12 @@
 {
   "best_6_metrics": {
-    "hierarchical_final_micro_f1": 38.00602208096353,
-    "hierarchical_final_macro_f1": 35.18510553507492,
-    "hierarchical_coarse_micro_f1": 53.06122448979591,
-    "hierarchical_fine_micro_f1": 22.950819672131146,
-    "hierarchical_coarse_macro_f1": 48.849289297658856,
-    "hierarchical_fine_macro_f1": 21.52092177249098,
-    "epoch": 1
+    "hierarchical_final_micro_f1": 56.04786790880861,
+    "hierarchical_final_macro_f1": 27.61255710013474,
+    "hierarchical_coarse_micro_f1": 71.60493827160495,
+    "hierarchical_fine_micro_f1": 40.490797546012274,
+    "hierarchical_coarse_macro_f1": 39.170692431561996,
+    "hierarchical_fine_macro_f1": 16.054421768707485,
+    "epoch": 6
   },
   "config": {
     "data_path": "/mnt/cfs/huangzhiwei/NLP-WED0910/datas/train_merged_origin+qwen256.json",
@@ -15,30 +15,30 @@
     "num_coarse_labels": 4,
     "num_fine_labels": 14,
     "max_length": 128,
-    "dropout": 0.3135999246870766,
-    "num_experts": 15,
+    "dropout": 0.2662533333733447,
+    "num_experts": 5,
     "expert_dim": 512,
-    "top_k": 1,
-    "use_separate_moe": true,
-    "load_balance_weight": 0.013540158381723238,
+    "top_k": 3,
+    "use_separate_moe": false,
+    "load_balance_weight": 0.00033493334061005116,
     "batch_size": 32,
-    "lr": 1.86884655838032e-05,
+    "lr": 2.166285281378889e-05,
     "weight_decay": 0.01,
     "epochs": 40,
     "patience": 5,
-    "threshold": 0.31676353792873924,
+    "threshold": 0.3222194647688701,
     "seed": 3407,
-    "distillation_alpha": 0.7,
-    "distillation_temperature": 4.0,
+    "distillation_alpha": 0.5356845237632237,
+    "distillation_temperature": 13.940735020303595,
     "results_dir": "training_results",
     "checkpoint_dir": "checkpoints",
     "device": "cuda"
   },
   "training_summary": {
-    "total_epochs": 6,
-    "total_time_hours": 0.001560001638200548,
+    "total_epochs": 11,
+    "total_time_hours": 0.002558310098118252,
     "early_stopped": true,
-    "best_epoch": 1,
-    "training_date": "2025-06-05T22:15:58.047143"
+    "best_epoch": 6,
+    "training_date": "2025-06-09T19:58:41.145393"
   }
 }

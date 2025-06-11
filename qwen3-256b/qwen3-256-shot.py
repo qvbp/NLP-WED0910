@@ -460,7 +460,7 @@ def main_with_file():
     
     # 从JSON文件加载文本
     input_file = "/mnt/cfs/huangzhiwei/NLP-WED0910/qwen3-256b-data/data_predict_again.json"  # 你的输入文件
-    output_file = "/mnt/cfs/huangzhiwei/NLP-WED0910/qwen3-256b-data/train_predictions_6.json"  # 输出文件
+    output_file = "/mnt/cfs/huangzhiwei/NLP-WED0910/qwen3-256b-data/val_1.json"  # 输出文件
     
     # 加载数据
     texts = load_texts_from_json(input_file)

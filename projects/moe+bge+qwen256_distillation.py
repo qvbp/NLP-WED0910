@@ -691,6 +691,8 @@ def train_model(config):
             # }, model_save_path)
             
             print(f"   🎉 新的最佳模型! 已保存到 {model_save_path}")
+            best_val_results_path = os.path.join(config['results_dir'], 'best_model_validation_results.json')
+            save_validation_results(model, val_dataloader, config, best_val_results_path)
             
         else:
             patience_counter += 1
@@ -781,14 +783,14 @@ def main():
     parser.add_argument('--num_coarse_labels', type=int, default=4, help='粗粒度标签数')
     parser.add_argument('--num_fine_labels', type=int, default=14, help='细粒度标签数')
     parser.add_argument('--max_length', type=int, default=128, help='最大序列长度')
-    parser.add_argument('--dropout', type=float, default=0.3135999246870766, help='Dropout率')
+    parser.add_argument('--dropout', type=float, default=0.2662533333733447, help='Dropout率')
     
     # MoE参数
-    parser.add_argument('--num_experts', type=int, default=15, help='专家数量')
+    parser.add_argument('--num_experts', type=int, default=5, help='专家数量')
     parser.add_argument('--expert_dim', type=int, default=512, help='专家维度')
-    parser.add_argument('--top_k', type=int, default=1, help='Top-K专家')
-    parser.add_argument('--use_separate_moe', type=bool, default=True, help='是否使用独立MoE')
-    parser.add_argument('--load_balance_weight', type=float, default=0.013540158381723238, help='负载均衡权重')
+    parser.add_argument('--top_k', type=int, default=3, help='Top-K专家')
+    parser.add_argument('--use_separate_moe', type=bool, default=False, help='是否使用独立MoE')
+    parser.add_argument('--load_balance_weight', type=float, default=0.00033493334061005116, help='负载均衡权重')
     
     # 训练参数
     parser.add_argument('--batch_size', type=int, default=32, help='批次大小')
@@ -800,11 +802,11 @@ def main():
     parser.add_argument('--seed', type=int, default=3407, help='随机种子')
     
     # 新增蒸馏参数
-    parser.add_argument('--distillation_alpha', type=float, default=0.7, help='蒸馏损失中软标签的权重')
-    parser.add_argument('--distillation_temperature', type=float, default=4.0, help='蒸馏温度参数')
+    parser.add_argument('--distillation_alpha', type=float, default=0.5356845237632237, help='蒸馏损失中软标签的权重')
+    parser.add_argument('--distillation_temperature', type=float, default=13.940735020303595, help='蒸馏温度参数')
 
     # 保存路径
-    parser.add_argument('--results_dir', type=str, default='training_results', help='结果保存目录')
+    parser.add_argument('--results_dir', type=str, default='training_results_0609', help='结果保存目录')
     parser.add_argument('--checkpoint_dir', type=str, default='checkpoints', help='模型保存目录')
     
     args = parser.parse_args()

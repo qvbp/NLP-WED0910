@@ -1,0 +1,154 @@
+{
+  "train_loss": [
+    0.6434049805005392,
+    0.6192109783490499,
+    0.5896641214688619,
+    0.5656274557113647,
+    0.545614222685496,
+    0.5231937766075134,
+    0.5113279223442078,
+    0.497980793317159,
+    0.47419871886571247,
+    0.44550052285194397,
+    0.42880648374557495
+  ],
+  "val_metrics": [
+    {
+      "hierarchical_final_micro_f1": 38.00602208096353,
+      "hierarchical_final_macro_f1": 35.18510553507492,
+      "hierarchical_coarse_micro_f1": 53.06122448979591,
+      "hierarchical_fine_micro_f1": 22.950819672131146,
+      "hierarchical_coarse_macro_f1": 48.849289297658856,
+      "hierarchical_fine_macro_f1": 21.52092177249098,
+      "epoch": 1
+    },
+    {
+      "hierarchical_final_micro_f1": 38.00602208096353,
+      "hierarchical_final_macro_f1": 35.18510553507492,
+      "hierarchical_coarse_micro_f1": 53.06122448979591,
+      "hierarchical_fine_micro_f1": 22.950819672131146,
+      "hierarchical_coarse_macro_f1": 48.849289297658856,
+      "hierarchical_fine_macro_f1": 21.52092177249098,
+      "epoch": 2
+    },
+    {
+      "hierarchical_final_micro_f1": 38.00602208096353,
+      "hierarchical_final_macro_f1": 35.18510553507492,
+      "hierarchical_coarse_micro_f1": 53.06122448979591,
+      "hierarchical_fine_micro_f1": 22.950819672131146,
+      "hierarchical_coarse_macro_f1": 48.849289297658856,
+      "hierarchical_fine_macro_f1": 21.52092177249098,
+      "epoch": 3
+    },
+    {
+      "hierarchical_final_micro_f1": 41.038961038961034,
+      "hierarchical_final_macro_f1": 36.06520757589124,
+      "hierarchical_coarse_micro_f1": 57.14285714285714,
+      "hierarchical_fine_micro_f1": 24.935064935064933,
+      "hierarchical_coarse_macro_f1": 50.099289297658856,
+      "hierarchical_fine_macro_f1": 22.03112585412363,
+      "epoch": 4
+    },
+    {
+      "hierarchical_final_micro_f1": 48.50788288288288,
+      "hierarchical_final_macro_f1": 27.77333541824064,
+      "hierarchical_coarse_micro_f1": 64.58333333333333,
+      "hierarchical_fine_micro_f1": 32.432432432432435,
+      "hierarchical_coarse_macro_f1": 36.03678929765886,
+      "hierarchical_fine_macro_f1": 19.509881538822423,
+      "epoch": 5
+    },
+    {
+      "hierarchical_final_micro_f1": 56.04786790880861,
+      "hierarchical_final_macro_f1": 27.61255710013474,
+      "hierarchical_coarse_micro_f1": 71.60493827160495,
+      "hierarchical_fine_micro_f1": 40.490797546012274,
+      "hierarchical_coarse_macro_f1": 39.170692431561996,
+      "hierarchical_fine_macro_f1": 16.054421768707485,
+      "epoch": 6
+    },
+    {
+      "hierarchical_final_micro_f1": 52.21000207511932,
+      "hierarchical_final_macro_f1": 24.848195800059152,
+      "hierarchical_coarse_micro_f1": 68.35443037974683,
+      "hierarchical_fine_micro_f1": 36.0655737704918,
+      "hierarchical_coarse_macro_f1": 36.65217391304348,
+      "hierarchical_fine_macro_f1": 13.04421768707483,
+      "epoch": 7
+    },
+    {
+      "hierarchical_final_micro_f1": 51.57967032967032,
+      "hierarchical_final_macro_f1": 23.268263827270037,
+      "hierarchical_coarse_micro_f1": 69.23076923076923,
+      "hierarchical_fine_micro_f1": 33.92857142857142,
+      "hierarchical_coarse_macro_f1": 37.31884057971014,
+      "hierarchical_fine_macro_f1": 9.21768707482993,
+      "epoch": 8
+    },
+    {
+      "hierarchical_final_micro_f1": 47.83604581072936,
+      "hierarchical_final_macro_f1": 20.935330654000733,
+      "hierarchical_coarse_micro_f1": 63.29113924050633,
+      "hierarchical_fine_micro_f1": 32.38095238095238,
+      "hierarchical_coarse_macro_f1": 34.93788819875777,
+      "hierarchical_fine_macro_f1": 6.932773109243698,
+      "epoch": 9
+    },
+    {
+      "hierarchical_final_micro_f1": 46.97656840513984,
+      "hierarchical_final_macro_f1": 23.39163352670424,
+      "hierarchical_coarse_micro_f1": 59.25925925925927,
+      "hierarchical_fine_micro_f1": 34.69387755102041,
+      "hierarchical_coarse_macro_f1": 36.14718614718615,
+      "hierarchical_fine_macro_f1": 10.636080906222334,
+      "epoch": 10
+    },
+    {
+      "hierarchical_final_micro_f1": 46.537634408602145,
+      "hierarchical_final_macro_f1": 21.485260770975056,
+      "hierarchical_coarse_micro_f1": 58.666666666666664,
+      "hierarchical_fine_micro_f1": 34.40860215053763,
+      "hierarchical_coarse_macro_f1": 34.12698412698413,
+      "hierarchical_fine_macro_f1": 8.843537414965986,
+      "epoch": 11
+    }
+  ],
+  "best_metrics": {
+    "hierarchical_final_micro_f1": 56.04786790880861,
+    "hierarchical_final_macro_f1": 27.61255710013474,
+    "hierarchical_coarse_micro_f1": 71.60493827160495,
+    "hierarchical_fine_micro_f1": 40.490797546012274,
+    "hierarchical_coarse_macro_f1": 39.170692431561996,
+    "hierarchical_fine_macro_f1": 16.054421768707485,
+    "epoch": 6
+  },
+  "config": {
+    "data_path": "/mnt/cfs/huangzhiwei/NLP-WED0910/datas/train_merged_origin+qwen256.json",
+    "val_data_path": "/mnt/cfs/huangzhiwei/NLP-WED0910/datas/val.json",
+    "model_name": "/mnt/cfs/huangzhiwei/NLP-WED0910/projects/models/bge-large-zh-v1.5",
+    "num_coarse_labels": 4,
+    "num_fine_labels": 14,
+    "max_length": 128,
+    "dropout": 0.2662533333733447,
+    "num_experts": 5,
+    "expert_dim": 512,
+    "top_k": 3,
+    "use_separate_moe": false,
+    "load_balance_weight": 0.00033493334061005116,
+    "batch_size": 32,
+    "lr": 2.166285281378889e-05,
+    "weight_decay": 0.01,
+    "epochs": 40,
+    "patience": 5,
+    "threshold": 0.3222194647688701,
+    "seed": 3407,
+    "distillation_alpha": 0.5356845237632237,
+    "distillation_temperature": 13.940735020303595,
+    "results_dir": "training_results_0610",
+    "checkpoint_dir": "checkpoints",
+    "device": "cuda"
+  },
+  "total_time_hours": 0.008931071294678582,
+  "final_epoch": 11,
+  "early_stopped": true
+}

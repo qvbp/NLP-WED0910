@@ -1,0 +1,5170 @@
+[
+  {
+    "sent_id": 5059,
+    "sent": "作为一名英语课代表，对徐老师的认识可能比同学更清楚。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明",
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 254,
+    "sent": "因而，保存良好的家风，摒弃有害而无益的家风，是有助于人成长的一大益事。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 5612,
+    "sent": "早上阳光明媚，如我的心灵，丝毫不被外界的阴云所引响，只觉得蔚蓝的天空上漂浮着的云，星星点点素雅的小花，让人倍感舒爽到了中午，远处传来一丝丝的锣鼓声，一众人从小到大到我眼前，看清上面有一个方形的木盒，很大，盖住了天上的太阳。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点",
+      "主语不明",
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 4614,
+    "sent": "周末时，老师邀请我与其他的同学去为母校的同学们界绍一位著名的冬奥运动员。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 5735,
+    "sent": "每次当我回到家时，从来也没有再见到那个向我飞扑过来的狗，也从没忘记那个向我撒娇。认人心软的狗，我家的那地地毯也被妈妈洗了，也看不见那让我永远忘不掉的梅花。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误",
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余",
+      "虚词多余",
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 8885,
+    "sent": "老师刚说，话音未落就见我们消失在果树之中，果树上都是橙子，我们8人分成4组，两人两把剪刀一个栏子，我们两人一起行动，另一人是小宇，我的好兄弟，",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误",
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 5342,
+    "sent": "我不仅从一个小学生变成了初中生，我也懂得了如何去诊惜生活中的每分每秒。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 3774,
+    "sent": "记忆的盒子瞬打开，把我拉回了相片中的时间。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 2474,
+    "sent": "先从后面偷偷摸摸进去，先是杀了两个厨房里的仆人，后是把”老的小的“通通“砍掉”，刀都能砍卷了。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明"
+    ]
+  },
+  {
+    "sent_id": 2812,
+    "sent": "回溯历史，君不见太史公司马迁谨等父亲命训，恪守《命于训》之家风教诲，终写成被誉为“史家之学唱，天蕴之《离骚》”，于青史留下重要的一笔。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点",
+      "错别字错误",
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 3602,
+    "sent": "还记得那天，董晨欣说她买了本《山海经》里面各路神仙怪物都有，最主要的是都非常丑。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 145,
+    "sent": "狗狗事件不值一提了，但我奶奶您辛苦了，我以念念不忘的这件事来以此激励自己坚持走下去不让您老人家失望。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点",
+      "主语多余",
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 511,
+    "sent": "绵风微掠，缕缕清香经了夏风吹漾和水波的摇拂，悠悠荡至心间，仿佛隐约远山淡淡轮廓中渺茫的笛声。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 25,
+    "sent": "仙人掌是生活在南北回归线之间的沙漠里。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 6060,
+    "sent": "坐在车上，望见奶奶给我的袋子里有一瓶牛奶。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明",
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 1298,
+    "sent": "也就是说，光鲜亮丽的背后，总会有一段艰辛的奋斗与自强不息的奋斗。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 8356,
+    "sent": "人类文明走过数万年的沉淀，将智慧的结晶浓缩在书中。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 6001,
+    "sent": "它们，为了生命能在这寒冬中存活，挺立起了身躯，多像那一个个为了生活坚苦奋斗的人们！",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 6153,
+    "sent": "我挑战了自己、战胜了自己、突破了自己！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 5062,
+    "sent": "这次的期中考试，我终于让徐老师欣慰，尽管不是班里最高分，但也达到了很大的进步。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 2544,
+    "sent": "2007年10月24日的那天不仅是中国机械工程的第一所任务，承载了探月卫星成功发射，也是我出生的日子，因为这天的重要性，所以我的名字也与它息息相关——张宇航。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点",
+      "错别字错误",
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 9341,
+    "sent": "我还要感谢我的同学，回忆着我的初中时光，我的脑海总映放着各位同学与我一起学习、进步、相互帮助的画面，大家总争着第一，早早的踏入校园，用行动书写着“一年之计在于晨”。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误",
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 1630,
+    "sent": "十年前，一位四十岁的女人带着儿子踏进我们的小区，女人脸上挂着一副眼镜，隐藏住她那小小的眼睛，泛黄的头发里混入了几根白发，背上背着大书包，手上提着行李箱，她儿子眼睛大大的，脸小小的，肉嘟嘟地，长的一点也不像她。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误",
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 9556,
+    "sent": "做到以上两点，相信大家的文笔更至于精神都能有极大的进步。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 7397,
+    "sent": "那黑酸酸的树影，在这样的夜色下隐隐约约，看不太真切。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 1874,
+    "sent": "而且日军在占领南京后，对南京的居民进行了血腥大屠杀，仅仅一周，30万手无寸铁的居民和放下武器士兵就被屠杀了。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 480,
+    "sent": "“她。是一个坚强，坚持不懈，勇敢拼搏的人。希望大家也能习一下她那些优秀的精神品质，争做一名新时代的好少年！无论是学习还是生活上，都要像她一样，”赢在家门口“，取得成功！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点",
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 7579,
+    "sent": "由此可见，真正的读者外界影响，专心致志的人，但是，你捧着书，像他们一样，就成为读者了吗？",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺",
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 106,
+    "sent": "我是本次云旅游的导游--新新，今天我们所要参观的是中华古城--南京，共同沉浸于金陵之古韵。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 9454,
+    "sent": "说话讲究技巧不仅为了别人也为了你，你说话若是不好听，别人还会愿意与你交往吗？",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 9385,
+    "sent": "在我初二暑假时，我把厚厚的暑假作业写完后我心里就只想着如何去奖励自己了。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余",
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 2865,
+    "sent": "不久，到了饭店，我果然是天生的吃货，纵使再不情愿，也还是被满桌的菜吸引了眼球。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 7577,
+    "sent": "正如我文章开头的景象，也许有的人靠在躺椅上，依旧是无法静下心来，可在书读着发觉它乏味，索性就放弃不读，换一本读，甚至犹于环境的舒适，他们还会昏睡过去，而这样的人，充其量只是“正在放松的人”，而决非读者。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当",
+      "其他成分残缺",
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 8175,
+    "sent": "其实这就是实践的可贵，知识终归是抽象的概念，不化为行动徒劳无用，同时实践也要检验真理的唯一标准，通过尝试与探索能够更加深入地了解知识的本质，“纸上得来终觉浅，绝知此事要躬行”，实践出真知。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 1059,
+    "sent": "中华民族的历史长河滚滚不息，流过了五千年的漫长当月，见证了华夏文明的璀璨瑰丽，也记录了无数王朝的更迭兴衰。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误",
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 5425,
+    "sent": "相信大家都看过冬奥会了吧，你们一定印象深刻的中国冬奥选手，他们在本届冬奥会上大显伸手，取得了由史以来最好的成绩。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点",
+      "错别字错误",
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 4294,
+    "sent": "周五，他的妈妈都要带她去专业训练队训练，从学校到那里要4个小时，这4个小时，她就一直在车上看书，学习，没有一次报怨累。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误",
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 4287,
+    "sent": "比外她还夺得了冬奥会上的女子自由式滑雪U型场地的金牌和女子自由式滑雪坡面障碍技巧的银牌。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误",
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 6809,
+    "sent": "在一次阴差阳错之下我成功地获得了加入中国共青团的的欲选名额，被要求参加中国共青团团课，争取早日进入共青团。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点",
+      "虚词多余",
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 1060,
+    "sent": "小学毕业那天，我有幸亲眼见证了兵马俑这一令人震撼的历史瑰宝。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 4081,
+    "sent": "可能仍有人质疑，吴用的武义并不高强，甚至令人感觉有些柔弱，不能像鲁智深一样去保护自己，",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误",
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 3016,
+    "sent": "走后还惦念金氏父女应己逃走，心中大喜。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明"
+    ]
+  },
+  {
+    "sent_id": 9030,
+    "sent": "刚进初中之时，曾占据班级前十之位，已是超越大多数人，但就有些懈怠，可在如此紧张的初中生活中，犹如一片波涛汹涌的大海之中来回在一片片砖块上跳跃，一不小心便会名落孙山。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明",
+      "其他成分残缺",
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 4304,
+    "sent": "我们抄小道到老门东，正好，就在我热得快趴到地上时，“救星”出现了，一家小卖铺。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误",
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余",
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 9895,
+    "sent": "所以，毅力对于一个向往成功的人是十分重要的，杨根思说过“就是有九十九个困难，只要有一个坚强的意志就不困难。”",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺",
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 646,
+    "sent": "黎明时分，作为一片花瓣，我来到了南京，见征了南京历史的悠久和人文景观，作为一片花辨，我也在南京的梧桐树下与南法这个城市一起睡着了。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误",
+      "错用标点",
+      "缺少标点",
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 5085,
+    "sent": "这是老班在日常行为上对我们的管辖，虽然脾气暴躁但老班的学习精神值得学习。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当",
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 9018,
+    "sent": "著名的音乐家贝多芬，在音乐上有着极高的天赋，却在最得意时，他失聪了。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 2318,
+    "sent": "正是因为他有着乐观向前，活在当下的心态，没有沉侵在以往安享的生治中，而是靠着自己闯出一片天地。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 1704,
+    "sent": "我无意间的抬头，我看到了电线杆前站了一个身形佝偻的清洁工。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误",
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 2162,
+    "sent": "“彼方尚有荣光在”选好青春赛道努力拼搏，走好自己的路。别选好走的路。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点",
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 5296,
+    "sent": "那天晚上，雨下得那般大，雨“哗哗啦啦”滴在外面的台子上，早晨起来，就淅淅沥沥的，“春天终于要来啦！”",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 5245,
+    "sent": "这样的人同学面前倒是大方了，可内心终究还是迟早得用明朗的笑声去面对。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误",
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺",
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 7891,
+    "sent": "但我身上没钱，我咽了咽口水，只好顶着饥饿与亲爱的美食“拜拜”。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 9014,
+    "sent": "因难就更多了，牛顿被苹果为什么会从树下掉下来感到困惑，最后研究出了万有引律；李时珍为百姓疾病困浇，走遍天下，最后完成了《本草纲目》；司马迁克服了在狱中的种种痛苦，完成了千古名著《史记》。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误",
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 5150,
+    "sent": "我其实只想对这种人说一句话：“当有一天，早上没有人喊醒你，放学没有人接你，有里只有冷冰冰的家具和你，Pleasetellme!这是自由？还是孤独。”",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 9393,
+    "sent": "逐渐这也成为了我的习惯，这与之前“黑暗”的我是完全不一样的！",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 9052,
+    "sent": "一个人如果只读书，不实践，那么只能书呆子。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 5225,
+    "sent": "过了一会同学和刚才在旁边跟我们说话的老大爷跑了进来，老大爷手里提着医疗箱，他问我：“你的情况我以经知道了，接下来我会帮你治疗，可能会有点疼”。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误",
+      "错用标点",
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 2898,
+    "sent": "走过一段墓道，面前同样的白石蓝瓦的单檐歇山式建陵门。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误",
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺",
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 7015,
+    "sent": "从这一件事我可以看出，武松的勇猛忠义、侠肝义胆、仗义诚信，如果我是他的朋友，他一定会在现实生活中帮助我面对困难，也会对朋友用心、不欺骗我，他是一个有良心敢作敢当的斗士，在生活中我会向他学习。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点",
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 2845,
+    "sent": "在出生之前，爸爸妈妈给我取了小名“开心”，据说，这个创意风靡妈妈的班公室，我妈以前同事的孩子，许多是“高兴”之类。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误",
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺",
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 6887,
+    "sent": "《傅雷家书》收录了1954年到1966年间傅雷夫妇写给两个儿子的家信一百多封，",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点",
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 4816,
+    "sent": "我有些难受的看着那位大爷——我一直乐意去他那打饭。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 9048,
+    "sent": "真正的读者并不是看'书'的人，而是专心致志地投入进去并从书中得到启发。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺",
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 6275,
+    "sent": "一阵风吹过，树枝微微作响，仿佛在感冬关心。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 2558,
+    "sent": "愿我的家乡广西越来越繁荣，也愿祖国越来越富强，完成伟大复兴！",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 9881,
+    "sent": "”生命只有一次，污的畅快淋漓，未米米日方长保持好心情”她飞奔回到家，不顾那厚湿的大衣，在白张上下写开头。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺",
+      "错别字错误",
+      "缺少标点",
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 6791,
+    "sent": "它确实可以简化成“走”，但其实这两个词根本上的区别是：前进是主动的状态，它包含着对生活的的热情和积极；而走则是麻木与被动的。仿佛根本无所谓自己踏上的路。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余",
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 4024,
+    "sent": "阳光是暖的，它是有亲情味儿的。这是一条与远在天堂的爷爷相接的纽带。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点",
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 8698,
+    "sent": "然我想说，并不是所有书籍都有能力完成承载读者，如同一艘船一样驶向对生活、对人类、乃至对社会的思考的海面的。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺",
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 4394,
+    "sent": "他是我们中华民族的重要建设者，也为中华人民共和国在国际舞台上站稳脚步做出了巨大贡献。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 9250,
+    "sent": "在亭下有一处泉水，用这一处的泉水酿酒，酒香且清，是可谓上品。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 4307,
+    "sent": "惊天动地的大事，我在一旁看着妈妈，妈妈的脸上露出不解的神情。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 4927,
+    "sent": "忽然“嗒”一声微弱的脆响雨滴落入了小水坑中，凌霄花又抬起了头，皱巴巴的小脸，却偏苦涩涩地笑着，雨势渐停，方才显得粉白的苦笑，又有了红润的喜色，轻抖身上的雨珠，挺直了腰板。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误",
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明",
+      "缺少标点",
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 8714,
+    "sent": "一天下来，做完作业后总会回想起那些发挥失常，粗心大意的瞬间。信心也随之流失。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点",
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 3626,
+    "sent": "就算风吹日晒、大雨滂沱，依然向上拼搏，顽强开放。在同一个花丛中彼此搀扶，无畏风雨。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点",
+      "主语不明"
+    ]
+  },
+  {
+    "sent_id": 7444,
+    "sent": "你见过大风大雨，得过许多奖励，即使一模的失败使你错过了特招的机会，但你仍要不屈不挠，勇往直前，奋力一搏，记住，中考才是这段马拉松的终点。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 4689,
+    "sent": "具体时间早已记不清了罢，却记得那天晴空万里，骄阳似火。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余",
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 9808,
+    "sent": "大家好，我是今天的阳光小导游新新，由我来带领大家寻访北京的天安门广场。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 2434,
+    "sent": "如果你在我们学校看见一位头发披着，戴着眼镜，基本每次见她都穿着牛仔裤，说话温柔的那就是我们唐老师，",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误",
+      "成分赘余型错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余",
+      "语序不当",
+      "主语不明"
+    ]
+  },
+  {
+    "sent_id": 9403,
+    "sent": "“千磨万击还坚励，任尔东西南北风。”就让我们一起自强不息，乘着自强的大船驶向成功的彼岸！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 1424,
+    "sent": "她于是一脸骄傲起来。越发肯定自己的想法。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点",
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 1908,
+    "sent": "我反驳道：“青春不是用来欣赏的吗？正值年轻，不应该去那些年迈时看不到的风景，做那些年迈时做不了的事情吗？",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺",
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 1077,
+    "sent": "她脸不大，带上眼镜后更为娇小，与众不同的是，她带上眼睛似乎更有神了。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误",
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 4792,
+    "sent": "比知识，也正如那句古话“腹有诗书气自华。”",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 5454,
+    "sent": "他加了，这时候他的目的已经改变。不是冠军，不是三连冠，是自己的梦想，人类的极限。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺",
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 2847,
+    "sent": "而我的爸爸在一家厦门的公司上班，名字叫英华达，后来，不知怎的的，所以经常不在家。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误",
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明",
+      "虚词多余",
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 7280,
+    "sent": "阅读还能充实你的知识，当你登上了泰山，有人会说啊，真美，而你会说，会当凌绝顶，一览众山小，这感是不是立马就不一样了？",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点",
+      "缺少标点",
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 4499,
+    "sent": "我与他相识不久，只记得他是单眼皮，一双水汪汪的大眼睛，和一张能说会道的嘴巴。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 2392,
+    "sent": "当鲁迅先生赞美东北人民的奋斗与抗争、当青年人，农民们读见先生的文章，他们的思想就在一刻间共通了，行为的不同恰反应出精神的相同，信念的一致恰指引了行动的分別。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误",
+      "其他搭配不当",
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 8798,
+    "sent": "具体来说，英雄是技艺超群，无私奉献，不畏艰险而拼搏的人。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余",
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 5987,
+    "sent": "走近些看，原来是几位环卫工爷爷，为了避免路面结冰酿成危险，正在忙着铲雪，我特意路过他们的身旁，看到一双双慈祥的眼镜。一张张苍老，布满皱纹，饱经风霜的脸。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点",
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 7323,
+    "sent": "由于电子商品无论如何多少都有一定的蓝光，电子阅读次数多了，它会伤害你的眼睛，使其视力下降；而若是阅读纸质书，那你不用担心这一问题。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余",
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 5594,
+    "sent": "也许就是这样的您，可能也只有您能把我身边的那个傲娇的，从不听话敢去校长室的小公主归于您自己，让她对您百般温顺，小学的六年时光，只有您让我全身心得放下防备，放心的把自己的后背交给您。",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分赘余型错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误",
+      "错用标点",
+      "虚词多余",
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 6621,
+    "sent": "应多读一些有内涵，有价值的名著，提升自己的文学素养，去感受大家们笔下的人物形象与答与其中的名言，如鲁迅笔下的阿Q，代表了当时封建主义的种种缺点，表达对封建社会的批判，用一个人仅巧妙代表了当时的整个社会风气。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误",
+      "成分搭配不当型错误",
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余",
+      "语序不当",
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 4264,
+    "sent": "我也不敢说什么，心里也挺烦，就直接下楼了，连声招呼都没打。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 5969,
+    "sent": "香槟色的天空像半透明的绸布铺在了大气中，只有在顶部还嵌进几抹浅蓝，浅蓝下是几朵似有似无的白云，它们聚得很快，散得也很快，像极了我们在一起的短短的三年，",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余",
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 7330,
+    "sent": "为了进一步为你们解答，如下是我向大家发起的倡仪：",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误",
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 5306,
+    "sent": "一天我气冲冲回到房间，一抬头望见了那被雨打击一天一夜的多肉，对不起我的多肉，对不起我的家人。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明",
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 5018,
+    "sent": "虽说他只是这本书中配角，但人气与热度却远远超过了两位男主，而我想这其中的原因应该就是他坎坷而又悲惨的一生了吧。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 4261,
+    "sent": "——平时不怎么交流，也不知道有什么话该说，在一起小时候还能玩一玩，长大了也不知该玩啥了，",
+    "CourseGrainedErrorType": [
+      "字符级错误",
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点",
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 570,
+    "sent": "若一开始便弃了，唯一的抓手弃掉，后面的一切都是空中楼阁。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误",
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺",
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 1496,
+    "sent": "此外，对于机会不要盲目。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 10000,
+    "sent": "阳光透过窗户洒进教室，学生们埋书写作业，只听见铅笔沙沙的声音。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10001,
+    "sent": "他推着自行车走进小，车轮碾过落叶发出清脆的响声。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10002,
+    "sent": "妈妈在厨房里忙来忙，锅里飘出香喷喷的味道。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10003,
+    "sent": "雨停了，天空出彩虹，孩子们兴冲冲地跑出家门围观。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10004,
+    "sent": "老人在摇椅上轻晃，手里捧着一本发黄的相簿回忆往事笑。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10005,
+    "sent": "火车呼啸过铁道，远处的村庄渐渐模糊成小小的黑点。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10006,
+    "sent": "她打衣柜翻出件连衣裙，上面的花纹已经褪色了。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10007,
+    "sent": "老师拿粉在黑板上写字，后排的同学眯着眼睛也看不清。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10008,
+    "sent": "夜晚的公园安静极，偶尔能听见几声蟋蟀鸣叫声。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10009,
+    "sent": "小狗趴在窝里睡觉，耳朵偶尔动下像是听到什么动静。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10010,
+    "sent": "爬山的时候下起雨，路变得滑溜溜的不太好走。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10011,
+    "sent": "他的钢掉了地上，墨水染了大片地毯。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10012,
+    "sent": "妹妹踮脚尖够书架上的漫画书，还是差了一点儿。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10013,
+    "sent": "飘来的音乐声中混杂笑喧闹，应该是派对开始了。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10014,
+    "sent": "鸽子落阳台栏杆上，歪着头打量里的面包屑。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10015,
+    "sent": "邻居家的小宝宝哭了整个午，妈妈怎么哄都没用。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10016,
+    "sent": "突然传来的门声把正在发呆的我吓一跳。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10017,
+    "sent": "落叶铺满了径，踩上去沙沙作响别有韵味。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10018,
+    "sent": "弟弟把拼乱的积木推到处，气鼓鼓地坐到一边。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10019,
+    "sent": "午饭做的炖牛肉得太咸，我和爸爸都没吃几口。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10020,
+    "sent": "雨后的空气特别新，鸟儿在树枝上欢快地唱，让我心情愉悦。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10021,
+    "sent": "看到那片熟悉稻田，父亲的影浮现在眼前，仿佛还能听到他的音。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10022,
+    "sent": "教室里光线昏暗，书本上的字迹难辨认，同学们都纷纷皱起了眉头。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10023,
+    "sent": "她的画色彩斑斓，缺少光感，却透出一股特的魅力。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10024,
+    "sent": "阳光透过窗帘照进来，地上的斑就像一幅动态水画。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10025,
+    "sent": "走在乡间小路上，远炊烟袅袅，狗吠声忽远忽近。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10026,
+    "sent": "书桌上的咖啡已经凉了，只剩下一淡淡的苦涩。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10027,
+    "sent": "童年时视那棵大树为玩伴，殊不知它早已注我们成长的点滴。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10028,
+    "sent": "溪水叮咚流淌，石缝间偶尔有小探出头来。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10029,
+    "sent": "列车缓缓驶月台，隔着窗户看见母亲在偷偷抹泪。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10030,
+    "sent": "老故事里的公主会化野兽，而现总少不了玫瑰桥段。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10031,
+    "sent": "厨房飘来外婆最拿的糕点香，那种味道至今难忘怀。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10032,
+    "sent": "他的理论听起来很有吸力，但细想就会发现明显漏。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10033,
+    "sent": "春雷炸响时，刚破土的幼苗在风中瑟瑟抖。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10034,
+    "sent": "萤火虫在夜晚组光的河流，这样的美景值得被忆珍藏。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10035,
+    "sent": "祖母坐在摇椅上织毛衣，线团时不时地会从膝滚落。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10036,
+    "sent": "马戏团的帐篷五颜六色，小丑表演总是逗得孩子哈哈大。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10037,
+    "sent": "钢琴声从隔传来，不知是哪位学生还在苦苦练习。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10038,
+    "sent": "深秋的落叶铺草坪，踩上去会发出沙沙响。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10039,
+    "sent": "渔夫收起最后一网，船舱里蹦跳的鱼鳞在夕阳下闪闪发。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10040,
+    "sent": "他打开书包发现课本忘带，急满头汗地转身跑回宿舍。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10041,
+    "sent": "妈妈在厨房菜时，突然听见阳台传来花盆砸碎的声。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10042,
+    "sent": "弟弟踮起趴在窗台上，目不转睛看楼下打架的流浪猫。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10043,
+    "sent": "大雨连夜后河水位暴涨，村民担会淹掉刚播种稻田。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10044,
+    "sent": "老教授抚摸着泛手稿，回忆起三十年前实验室灯至天明。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10045,
+    "sent": "运动会彩排时她突然晕倒，校医说是长期吃早导致低血糖。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10046,
+    "sent": "列车穿过隧道的刻，屏幕上突然显示无服务的提。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10047,
+    "sent": "他把拼图最后一块塞进凹槽，却发现图案驴唇不对马嘴。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10048,
+    "sent": "橱窗里模特戴着绒帽，让人误以为季已经来临。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10049,
+    "sent": "广场舞乐曲响瞬间，所有老人齐刷刷转向音响的起。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10050,
+    "sent": "导游指着山峰说那里常有云海，可惜今雾气不够。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10051,
+    "sent": "猫头鹰标本的眼在暗处泛，吓得值班员差点打翻咖啡。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10052,
+    "sent": "翻到日记本的页，发现当年用铅笔写愿望已褪色。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10053,
+    "sent": "护士提醒他药必须饭后，他却总就着冷牛奶吞。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10054,
+    "sent": "台风登陆前超市速溶咖啡被抢空，人们似乎想靠提神守家园。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10055,
+    "sent": "钢琴老师刚示范完优美琶音，琴房窗就被风猛地关。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10056,
+    "sent": "考古队员小心翼翼刷开泥土，露出青铜器上斑驳纹。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10057,
+    "sent": "她对着生日蛋糕上的25两根蜡烛，突然意识到不再年轻。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10058,
+    "sent": "鹦鹉学会说\"早\"后，每天都窗外的快递员打招呼。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10059,
+    "sent": "火锅汤底沸后漂浮的辣椒，让不食辣的他连灌三杯冰。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10060,
+    "sent": "雨后的空气清新人，树叶上挂着晶莹水珠。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10061,
+    "sent": "她突然停下脚步，盯着远方楼发呆，仿佛看见了年的影子。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10062,
+    "sent": "书页里的旧票已泛黄，却仍能唤起那段旅的回忆。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10063,
+    "sent": "孩子们在草地上追逐打闹，笑声像铃一清脆。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10064,
+    "sent": "我翻抽屉里的日记本，发现当年写下的梦想依然鲜明。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10065,
+    "sent": "夜渐暗下来，阳台上的植物在风中轻轻摇晃。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10066,
+    "sent": "他盯着黑板上的公式，眉头紧锁，似乎遇了难题。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10067,
+    "sent": "公交站牌旁立老人，手里拎着沉重的菜篮子。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10068,
+    "sent": "小提琴的旋律从窗隙流，勾起我未曾说出的话语。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10069,
+    "sent": "锅里炖着的汤咕嘟作响，散发令垂香。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10070,
+    "sent": "大雁排成字形飞过，将我的思绪也带天空尽头。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10071,
+    "sent": "外婆低头缝补衣裳，老花镜滑鼻梁而不察。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10072,
+    "sent": "课铃响了许久，教室里仍回荡着朗读书。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10073,
+    "sent": "池塘的青蛙突然噤声，像是感了危险的临近。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10074,
+    "sent": "男孩踮脚尖够书架最层的漫画，却不小心碰落了相框。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10075,
+    "sent": "老旧收音机里播着二十年的歌，电不时杂音。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10076,
+    "sent": "长颈鹿弯下脖啃食树叶，阳光透过它斑驳的皮。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10077,
+    "sent": "她将玻璃擦得透亮，窗外的海仿佛能伸手触。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10078,
+    "sent": "篮球员腾空跃起投三分球，场爆发欢呼。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10079,
+    "sent": "蝉鸣声忽高忽低地响着，为夏日午添了睡意。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10080,
+    "sent": "阳光透过窗户洒进屋子，将桌面照得金，暖意却传不到我的心里。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10081,
+    "sent": "她紧握着封信，指尖微微发抖，眼泪打湿了那些熟悉字迹。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10082,
+    "sent": "学校的老槐树又开花了，香气弥漫着整个操场，我仿佛听见青春的笑回荡在风里。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10083,
+    "sent": "大雨过后，天的乌云散去，山边的架起一座彩虹。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10084,
+    "sent": "他站在舞台中央，聚光灯下的歌声沙哑动人，却没人知道那歌词里藏的挣扎。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10085,
+    "sent": "秋风扫起一地落叶，纷纷扬扬黄铺满了台阶，像通向季节的离别。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10086,
+    "sent": "妈妈在客厅看电视，剧里的对白得太快，她已经跟不上剧情的发展。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10087,
+    "sent": "小猫躲在被窝里，露在外面的胡须轻轻颤，似乎在装的睡很熟。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10088,
+    "sent": "医院走廊的灯彻夜亮着，消毒水味若有若，护士推着医用推车走过时发出轻微的咕噜声。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10089,
+    "sent": "几个孩子蹲在路边，观察搬家的蚂蚁队伍，他们兴奋数着一趟趟运输的粮食。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10090,
+    "sent": "满墙奖状见证了她的过去，第一张破角的证书初中获奖的回忆依然清晰。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10091,
+    "sent": "老家门前的小路两边灯笼都坏了，下走时会路灯时不时闪烁，像是眼睛快闭上了。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10092,
+    "sent": "那本书缺了扉页，笔者的签名不见录，出版日期也成了永远的谜。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10093,
+    "sent": "旋转木马的音乐又响起，画彩色的马儿们后来都上新漆，只剩下小时候骑的那匹是个例外。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10094,
+    "sent": "晚自习结束的铃声过很久，教室灯还亮，值日生已经把黑板擦干净了大半。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10095,
+    "sent": "窗外开始飘雪时的早读，朗读课本声音安静了片刻，随即换窃窃私语的低嗡。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10096,
+    "sent": "爷爷珍藏的那套火柴已经空了盒子，只剩几张印纳粹徽章的糊纸片。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10097,
+    "sent": "电视里还在播报昨飓风的新闻，排水系统的塌让郊区变成了水长流地。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10098,
+    "sent": "花店老板娘捧出盆仙人掌，刺的白绒毛了阳光，底座沉积着长期没浇水的褐色痕迹。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10099,
+    "sent": "他的衣领留着那次争吵被撕的边线，虽然熨烫平整，却始终找不到垂直的两个对边。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 10100,
+    "sent": "他扶正鼻梁上的眼睛，随手从包里拿出一本相册，开始翻阅那些泛黄的照片。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10101,
+    "sent": "图书馆里非常安静，只能听到翻书的声音，偶尔有人小声交淡，但很快又恢复了寂静。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10102,
+    "sent": "外婆做的红烧肉色泽红亮，香滑可口，每次吃都能让我找回童年的味到。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10103,
+    "sent": "今天演讲比赛的冠金由一位初一的学生获得，她的表现十分出色，赢得了评委的一致好评。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10104,
+    "sent": "窗外传来雨声，滴滴答答地敲打着玻璃，像是在演凑一首美妙的乐章。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10105,
+    "sent": "她在画布上大胆挥洒色彩，最终绘成了一幅令人震憾的抽象作品。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10106,
+    "sent": "小说的主角历经磨难，最终战胜了敌人，成为了真正的硬熊。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10107,
+    "sent": "总经里的经验和教训，让我在后来的工作中少走了很多弯路。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10108,
+    "sent": "老式留声机缓缓转动，播放着一首悠扬的古典乐典，让人仿佛回到了上个世纪。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10109,
+    "sent": "暑假时，我们一家去了海边，在沙滩上欣赏了壮丽的日出，感爱大自然的魅力。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10110,
+    "sent": "这篇作文的内容既具体又生动，唯一遗憾的是出现了几个错别自，影响了整体评分。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10111,
+    "sent": "电影的高潮部分十分紧张刺击，观众们屏住呼吸，直到结局才松了一口气。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10112,
+    "sent": "她手写的那封信用纸非常考究，字迹工整，整体给人优雅的印像。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10113,
+    "sent": "老师示范完实验步骤后，让同学们分组怒力尝试操作，并记录实验结果。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10114,
+    "sent": "博物馆展出的青铜器年代久远，每一件都是不可多得的历史贵宝。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10115,
+    "sent": "店里的招牌菜是一道麻辣香锅，味道香浓，喜欢吃辣的人一定不要错过这个味到。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10116,
+    "sent": "演讲者的自信感染了全场，结束时台下响起了雷鸣般的昐声。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10117,
+    "sent": "他虽然有点紧长，但还是顺利完成了任务，得到了老师的肯定。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10118,
+    "sent": "新年联欢会上，同学们载歌栽舞，气氛热烈而欢快。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10119,
+    "sent": "夜晚的星空璀璨夺目，让人不禁对字宙的浩瀚产生了深深的遐想。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10120,
+    "sent": "游览紫金城时，我被古建筑的宏伟震撼，同行的游克们也都连连赞叹不已。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10121,
+    "sent": "他特别喜欢研究星像，晚上常常躺在草地上观测天空，还买了专业的天文望眼镜。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10122,
+    "sent": "奶奶精心准备了一桌饭菜，还特意为我做了一道红薯甜汤，里面放了我爱吃的苟杞。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10123,
+    "sent": "这座桥的桥墩非常稳固，据说能抵抗八级地震，工程师们为此付岀了巨大心血。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10124,
+    "sent": "妹妹不小心划破了手指，妈妈连忙从药厢里拿出创可贴给她包紮好。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10125,
+    "sent": "老师在班会上强调要节约用水，但总有个别同学洗完手后不关紧笼头。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10126,
+    "sent": "公园里新安装了健身器械，不少老人喜欢在傍晚时纷来这里锻炼身体。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10127,
+    "sent": "这本书的封面上印着作者的签名，可惜被墨水印染得模湖不清了。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10128,
+    "sent": "考古学家在这片遗址挖崛出许多珍贵文物，其中的青铜器保存得相当完好。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10129,
+    "sent": "妈妈从菜市场买回新鲜的韮菜，准备晚上给我们包三鲜馅的饺子。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10130,
+    "sent": "春天的校园里开满了杜娟花，远远望去像一片粉红色的海洋。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10131,
+    "sent": "他用积木搭了一座微形城堡，还特意在城墙上插了几面小红旗。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10132,
+    "sent": "爷爷戴着老花镜仔细阅读报纸，突然指着一条新闻说这明显是个错勿。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10133,
+    "sent": "舞台上的演员穿着华丽的服裝，在聚光灯下表演着优美的午蹈。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10134,
+    "sent": "动物园新来了两只长颈鹿，游客们争相给它们喂食胡罗卜。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10135,
+    "sent": "姐姐考取了营养师资格证书，现在每天都为我们搭配均蘅的膳食。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10136,
+    "sent": "这场暴雨导致河水爆涨，附近的农田都被淹没有一米深。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10137,
+    "sent": "老师让我们用\"守株待免\"这个成语造句，可我始终想不出合适的句子。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10138,
+    "sent": "他用橡校泥捏了一只栩栩如生的小狗，连皮毛的纹理都塑造得很细致。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10139,
+    "sent": "妈妈在阳台上种了好几盆多桨植物，每周只需浇一次水就能长得很好。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10140,
+    "sent": "他每天都会锻练身体，但今天因为下雨只能在家做几组负握撑。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10141,
+    "sent": "孩子们在体育课上认认真真地做准奋运动，生怕运动时拉伤筋骨。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10142,
+    "sent": "我忘记戴手表，只能看手机上的中表，幸好时间还很充裕。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10143,
+    "sent": "这道题太难了，我绞尽脑汁都想不出来，最后还是求助于教科书上的提是。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10144,
+    "sent": "妈妈做的红烧肉森油油的，肥而不腻，满满的都是家乡的味道。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10145,
+    "sent": "他明就是这次的冠军，可最后关头却因为紧张眼睁睁地丢掉了这个机会。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10146,
+    "sent": "她的书法写得真漂亮，每个笔化都那么有力，老师连连称赞。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10147,
+    "sent": "他穿上西装后显得十分俊郎，举手投足间透着优雅的气质。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10148,
+    "sent": "我在公园散步时偶而遇到一只可爱的小狗，它蹦蹦跳跳地向我跑来。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10149,
+    "sent": "上周我们去爬山，一路上狭窄的山到让我们走得小心翼翼。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10150,
+    "sent": "爷爷书架上的书很多都是发黄的，有的甚至已经出斑了，但都保存得很完好。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10151,
+    "sent": "她是个聪明且开郎的女孩，身边的朋友都很喜欢跟她聊天。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10152,
+    "sent": "实验失败了，我们不得不总结原因，然后再从新开始。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10153,
+    "sent": "排队买票的人太多了，我们足足站了一个多中时才排到窗口。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10154,
+    "sent": "这次考试我太马虎了，好几道简单的题都没有看清楚提干就选了答案。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10155,
+    "sent": "他最喜欢吃那种撒满芝麻的小甜炳，一连能吃好几个。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10156,
+    "sent": "这个小部门的工作量其实不大，只要合理分配好公务就能按时完成。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10157,
+    "sent": "厨房里散发出浓郁的香味，原来是妈妈正在炖一锅热气腾腾的红烧隔肉。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10158,
+    "sent": "他在演讲时深情并貌，感染了在场所有的观众。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10159,
+    "sent": "爸爸的手表停了，他只能靠着天空中圆圆的月圆估算时间。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10160,
+    "sent": "他的画技非常出从，每次展览都能吸引大量观众，大家都称他为天才画家。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10161,
+    "sent": "公园里的樱花开的真美，粉红色的花瓣散落一地，宛如铺上一层华丽的地坦。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10162,
+    "sent": "妈妈做菜的手艺很好，尤其是她烧的红烧肉，酱汁浓绸，肉质鲜嫩。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10163,
+    "sent": "今天的考试题目很难，不过我还是努力答完了，希望最后能考个好成积。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10164,
+    "sent": "冬天的早晨特别冷，雾汽笼罩着整个城市，远处的楼房若隐若现。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10165,
+    "sent": "弟弟特别淘气，经常把家里的玩具摔坏，妈妈也拿他无可耐何。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10166,
+    "sent": "学校最近组织了一次远足，大家都很兴奋，早早地准备好了行装和干粮。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10167,
+    "sent": "电影里的主角勇敢正直，即使面对坏人的威协也绝不屈服。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10168,
+    "sent": "春天的青草生张得很快，没过几天就绿油油地铺满了山坡。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10169,
+    "sent": "妹妹很喜欢小动物，尤其爱和小猫玩耍，每次看到街边的猫都会欢呼确跃。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10170,
+    "sent": "写作最重要的是表达清晰，思路连惯，才能让读者轻易理解你的意思。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10171,
+    "sent": "这场比赛的结果出乎意料，本来领先的队伍最后竟然落败了，实在令人遗撼。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10172,
+    "sent": "登山是一项挑战性的运动，需要坚强的意志，中途不能轻言放气。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10173,
+    "sent": "晚餐时，爸爸兴高采烈地讲述了他出差时遇到的趣事，逗得全家捧腹。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10174,
+    "sent": "读书可以开阔眼界，增长知识，对个人的成长至关重要。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10175,
+    "sent": "这次的实验很成功，数据准确度很高，完全可以发表到学术气志上。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10176,
+    "sent": "妹妹的舞蹈表演很精彩，舞姿优美，台下的观众纷纷报以热列的掌声。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10177,
+    "sent": "每年的春节，家里都会贴上红色的对联，墙上挂满喜汽洋洋的灯笼。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10178,
+    "sent": "他的计划雄心勃勃，可惜最终由于资金不足而告以失败。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10179,
+    "sent": "出门旅游前，可别忘记检查行李是否代齐，以免落下重要的物品。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10180,
+    "sent": "她用力推开大们，发现屋子里一片狼籍，显燃有人来过这里。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10181,
+    "sent": "弟弟兴高彩烈地跑过来，手里拿着一本封皮已经反黄的旧书。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10182,
+    "sent": "奶奶做的菜非常可口，特另是那道红烧茄子，让人回味无长。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10183,
+    "sent": "今天的天气非常睛朗，很适合去公圆散步或骑自行车。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10184,
+    "sent": "他因为一时疏忽，把手机遗忘在出租车上了，现在想起来非长后悔。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10185,
+    "sent": "商场里货物琳瑯满目，但他却没有什么购物的欲忘。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10186,
+    "sent": "她的演奖赢得了全场观众的热烈掌省，大家都觉得她实至名归。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10187,
+    "sent": "他们在森林里迷了路，幸好遇道一位热心的猎人，最终获的了帮助。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10188,
+    "sent": "这本书的情节曲折离奇，让人一看就停不下来，强烈见议大家都读一读。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10189,
+    "sent": "会议结束后，大家纷纷来到餐厅享用丰富的午滕，气氛十分热闹。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10190,
+    "sent": "这条小路崎岖不平，走起来格外坚难，但他们还是咬牙坚持了下来。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10191,
+    "sent": "老师耐心的为他们介召了新学期的学习计划，大家都充满了期待。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10192,
+    "sent": "这幅画的构图非常严仅，色彩搭佩也恰到好处，看得出作者下了一番功夫。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10193,
+    "sent": "他是一位倍受尊敬的学者，在学术界有着广泛的名声和影晌力。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10194,
+    "sent": "比赛前他会不断的练习，直到准确无误，这种精神值得大家效放。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10195,
+    "sent": "每当回想起那段灰涩的往事，她的心里总是难以平静。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10196,
+    "sent": "会议的预期效果达到了，但还有一些细节问题需要进一步修改和政进。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10197,
+    "sent": "她做事情总是雷励风行，从不拖泥代水，这种风格我很欣赏。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10198,
+    "sent": "这家店的装修别具匠新，菜品的口感也很独道，值得一去。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10199,
+    "sent": "他在演讲中引用了大亮的文献资料，充分展示了佐证的力度。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 10200,
+    "sent": "春天来了，万物复苏小鸟在枝头欢快地歌唱。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10201,
+    "sent": "他虽然成绩优异，但从不骄傲，总是虚心向别人学习",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10202,
+    "sent": "如果你不努力，机会就会悄悄溜走到时后悔也来不及了！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10203,
+    "sent": "她打开书本，仔细阅读每一页生怕漏掉任何细节。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10204,
+    "sent": "“快看！”小男孩兴奋地叫道，天空中有彩虹！”",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10205,
+    "sent": "只有善待他人才能赢得尊重，否则你将孤身一人。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10206,
+    "sent": "夜晚降临繁星点点，月亮缓缓爬上树梢。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10207,
+    "sent": "这本书不仅内容有趣，而且插图精美，值得一读再读",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10208,
+    "sent": "你答应过我的难道现在要反悔吗？",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10209,
+    "sent": "雨越下越大我们只好躲在屋檐下，等雨小些再走。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10210,
+    "sent": "他拿起毛笔蘸了蘸墨，在宣纸上写下遒劲有力的字。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10211,
+    "sent": "无论多忙他都会抽时间陪家人，因为亲情最重要。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10212,
+    "sent": "突然，一阵猛烈的风刮来，树叶纷纷扬扬地落下",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10213,
+    "sent": "“你怎么来了？”她惊讶地问，“不是说今天有事吗”",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10214,
+    "sent": "坚持锻炼，身体会更健康放弃运动，体质会逐渐变差。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10215,
+    "sent": "她一边整理书包一边哼着歌，心情格外愉快。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10216,
+    "sent": "人生总有起起落落，只要不放弃希望就永远存在。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10217,
+    "sent": "教室里安静极了连一根针掉在地上都能听见。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10218,
+    "sent": "他不仅会弹钢琴，还会拉小提琴真是多才多艺！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10219,
+    "sent": "如果你愿意努力，梦想就会实现否则，它永远只是幻想。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10220,
+    "sent": "虽然天色已晚但他依旧坚持完成作业，因为明天就要交给老师了。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10221,
+    "sent": "如果你不来参加活动，我们就得重新安排计划，否则人数不够会影响整体效果",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10222,
+    "sent": "她翻开那本红楼梦》，读到“满纸荒唐言，一把辛酸泪”，不由得陷入了沉思。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10223,
+    "sent": "今天是周末，我们可以去看电影，或者去公园散步你觉得哪个更好？",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10224,
+    "sent": "他不仅学习成绩优异，而且待人真诚所以在班上很受欢迎。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10225,
+    "sent": "昨天的会议上，领导强调：“我们必须提高效率，否则无法按时完成任务”",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10226,
+    "sent": "虽然雨下得很大，可她没带伞只好冒雨跑回了家。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10227,
+    "sent": "你喜欢吃火锅吗如果喜欢的话，我知道一家特别地道的店。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10228,
+    "sent": "他一进门就大喊“我考了满分！”全家人都为他感到高兴。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10229,
+    "sent": "这次旅行虽然短暂但给我们留下了深刻的印象，尤其是那里的日出。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10230,
+    "sent": "她明明很累，却仍然坚持锻炼，因为她说健康比什么都重要",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10231,
+    "sent": "老师说：“考试时一定要仔细审题否则很容易丢分。”",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10232,
+    "sent": "如果你不抓紧时间，任务肯定完不成，到时候后悔就来不及了",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10233,
+    "sent": "这本书不仅内容丰富，而且插图精美，难怪销量一直很高",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10234,
+    "sent": "他犹豫了一下，最终还是决定说实话，毕竟撒谎只会让事情更糟糕",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10235,
+    "sent": "你看到那只小鸟了吗它一直在树上跳来跳去，好像很开心的样子。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10236,
+    "sent": "虽然她很害怕，但还是鼓足勇气走进了那间黑漆漆的房间",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10237,
+    "sent": "妈妈常说：“早睡早起身体好。可我就是改不掉熬夜的习惯。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10238,
+    "sent": "如果你不喜欢这个颜色，我们可以换一种，反正选择还有很多",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10239,
+    "sent": "他一边跑步一边听音乐这样既能锻炼身体，又能放松心情。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10240,
+    "sent": "虽然下着大雨，但我们依然决定去爬山，因为这样的机会并不多",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10241,
+    "sent": "他说：“明天要考试了，大家都紧张吗？”教室里顿时鸦雀无声",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10242,
+    "sent": "如果你不去尝试，怎么知道结果可是很多人连第一步都不敢迈出！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10243,
+    "sent": "这本书不仅内容有趣，插图也精美，难怪孩子们都爱不释手",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10244,
+    "sent": "她一边整理书架，一边哼着歌，完全没有注意到我已经站在门口很久了",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10245,
+    "sent": "突然，天空电闪雷鸣，豆大的雨点砸下来，路上的行人纷纷跑起来躲雨",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10246,
+    "sent": "老师说：“作业必须今天交，否则会影响成绩”同学们听后都埋头写起来。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10247,
+    "sent": "他喜欢踢足球却总是迟到训练，教练对此已经忍无可忍了。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10248,
+    "sent": "我们来到海边，海浪拍打着礁石远处还有海鸥在盘旋。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10249,
+    "sent": "她不仅钢琴弹得好，舞跳得也很棒难怪大家都很佩服她。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10250,
+    "sent": "你到底想吃什么？”妈妈拿着菜单，显得有些不耐烦了。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10251,
+    "sent": "电影刚开始他就睡着了，直到散场时才被观众们的掌声惊醒。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10252,
+    "sent": "小时候，外婆总对我说：“要诚实待人，说谎会让人失去信任。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10253,
+    "sent": "秋天的风凉凉的，树叶纷纷落下大地仿佛换上了金黄色的衣裳。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10254,
+    "sent": "他收拾好行李，回头看了一眼这个住了三年的小屋心中有些不舍。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10255,
+    "sent": "如果你不努力学习将来会后悔吗？我想，答案显而易见。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10256,
+    "sent": "雨停了，天边出现了一道彩虹，孩子们兴奋地指着天空尖叫起来",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10257,
+    "sent": "我刚走进图书馆，就看见王老师拿着一本厚厚的书，正专心致志地读着",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10258,
+    "sent": "妈妈说：“天气这么冷，你怎么不穿外套”我这才发现自己冻得发抖。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10259,
+    "sent": "虽然路途遥远，但只要坚持走下去就一定能够到达目的地。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10260,
+    "sent": "天空忽然暗了下来，雷声隆隆作响，看来马上就要下雨了",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10261,
+    "sent": "“你为什么不早点告诉我？”她生气地问道，“现在事情已经来不及了”",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10262,
+    "sent": "学习虽然辛苦，但只要坚持下去就一定会有收获！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10263,
+    "sent": "他翻开那本旧相册照片已经泛黄，可记忆依然清晰如昨。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10264,
+    "sent": "春天来了，花儿开了，鸟儿也在枝头欢快地歌唱",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10265,
+    "sent": "这部电影评价很高可我觉得剧情有些拖沓，并没有想象中精彩。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10266,
+    "sent": "“快把手套戴上！”妈妈大声说，“外面太冷了，小心冻伤”",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10267,
+    "sent": "如果你不想去，那就直接拒绝不要勉强自己做不愿意的事。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10268,
+    "sent": "深秋的夜晚格外寂静风吹过树梢，只有树叶沙沙作响。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10269,
+    "sent": "他本来打算今天出门，可是忽然下起了大雨只好改变计划。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10270,
+    "sent": "很多人觉得数学很难但只要掌握方法，它其实并没有那么可怕。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10271,
+    "sent": "“你觉得这个方案可行吗”经理问道，“如果可以，我们就尽快实施。”",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10272,
+    "sent": "时间流逝得飞快，转眼又到年底了，新的一年即将开始",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10273,
+    "sent": "他虽然年纪小，但做事十分稳重大家都对他刮目相看。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10274,
+    "sent": "老师走进教室，学生们立刻安静下来，等待上课",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10275,
+    "sent": "“天啊！这个蛋糕也太好吃了！她忍不住赞叹道，“你在哪里买的？”",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10276,
+    "sent": "昨天我去了趟图书馆，借了两本小说，想趁着假期慢慢读完",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10277,
+    "sent": "如果你怕黑晚上睡觉时可以开一盏小夜灯，这样就不会害怕了。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10278,
+    "sent": "夏天的午后炎热难耐，蝉鸣声不绝于耳让人昏昏欲睡。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10279,
+    "sent": "成功并非偶然，它需要努力、坚持以及一点点运气。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10280,
+    "sent": "虽然天气很冷，但大家依然坚持晨跑因为健康的身体比什么都重要。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10281,
+    "sent": "他说今天会下雨可我从早上等到现在，一滴雨也没见到！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10282,
+    "sent": "如果你不努力机会就会溜走，到时候后悔也来不及了。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10283,
+    "sent": "这本书不仅内容丰富，而且插图精美，难怪孩子们都喜欢读",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10284,
+    "sent": "快看！”她指着天空喊道，“那边的云彩像不像一只奔跑的马？”",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10285,
+    "sent": "尽管他再三道歉，可对方始终不肯原谅，这件事恐怕没那么容易解决",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10286,
+    "sent": "只要用心观察，你就能发现生活中的美其实无处不在。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10287,
+    "sent": "她一边整理书包，一边哼着歌心情似乎特别好。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10288,
+    "sent": "这个问题很难回答，因为它涉及到许多复杂的因素不是三言两语能说清的。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10289,
+    "sent": "你为什么总是迟到难道不知道这样会影响整个团队的工作效率吗？",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10290,
+    "sent": "不管多晚回家，妈妈总会给我留一盏灯这让我感到无比温暖。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10291,
+    "sent": "他虽然年纪小但做事非常认真，甚至比许多大人还要靠谱。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10292,
+    "sent": "如果你觉得累了就休息一会儿，毕竟身体才是革命的本钱。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10293,
+    "sent": "那只猫突然跳上窗台，吓得她差点打翻了水杯，真是虚惊一场",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10294,
+    "sent": "教室里安静得出奇，只有笔尖划过纸面的沙沙声大家都在专心答题。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10295,
+    "sent": "既然你已经决定了，那就勇敢去做吧我们会一直支持你的。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10296,
+    "sent": "“你知道吗？”他神秘地笑了笑，这个秘密我藏了整整十年。”",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10297,
+    "sent": "雨越下越大路上的行人都加快了脚步，谁也不想被淋成落汤鸡。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10298,
+    "sent": "他不仅学习成绩优异还擅长篮球和钢琴，真是令人羡慕！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10299,
+    "sent": "看到这个结果，她先是愣了一下，随后开心地跳了起来，嘴里不停喊着：“我成功了”",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点错误"
+    ]
+  },
+  {
+    "sent_id": 10300,
+    "sent": "春天的脚步越来越近了，花园里开满了各种鲜花，有红的、黄的、紫的、粉的、美得让人目不暇接。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10301,
+    "sent": "他学习非常刻苦、每天早起晚睡、坚持读书写作，终于在考试中取得了好成绩。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10302,
+    "sent": "这部电影的情节跌宕起伏，演员们的表演也极其到位、观众们全程沉浸其中。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10303,
+    "sent": "她在烹饪方面颇有天赋、无论是中式菜肴还是西式甜点，都能做得色香味俱全。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10304,
+    "sent": "面对突如其来的暴雨，他没有慌乱，而是镇定地拿出雨伞、帮大家一路遮雨回到教室。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10305,
+    "sent": "这本书的故事背景设定在民国时期。讲述了一个大家族兴衰的命运，以及其中人物的悲欢离合。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10306,
+    "sent": "科技的发展日新月异，智能手机已不仅是通讯工具、还能用于拍照办公、甚至远程医疗。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10307,
+    "sent": "清晨的阳光透过窗帘洒进房间，照在床上，暖洋洋的、让他不想起床。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10308,
+    "sent": "运动不仅能增强体质，提高免疫力、还可以缓解压力，让人们保持身心健康。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10309,
+    "sent": "那家餐厅的招牌菜是麻婆豆腐。麻辣鲜香的味道让不少食客慕名而来，甚至排起长队。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10310,
+    "sent": "旅游不仅能开阔视野、增长见识，更能放松心情、让疲惫的心灵得到治愈。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10311,
+    "sent": "虽然天气阴沉沉的，可并没有下雨、他仍然决定按原计划出门跑步。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10312,
+    "sent": "她从小热爱音乐。擅长钢琴和琵琶，曾在多次比赛中获奖，成为同龄人羡慕的对象。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10313,
+    "sent": "这座桥梁的工程设计十分复杂，既要考虑美观性、又要兼顾安全性，难度极高。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10314,
+    "sent": "他们在长途旅行中遇到不少困难，如迷路、车抛锚，可最终还是顺利到达了目的地。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10315,
+    "sent": "很多家长认为舞蹈会影响学业，但这恰恰相反、不仅能锻炼孩子的专注力，还可以提升创造力。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10316,
+    "sent": "田野里的油菜花开了，黄澄澄的一大片，蜜蜂和蝴蝶欢快地飞舞着、构成一幅生动的春景图。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10317,
+    "sent": "现代社会生活节奏越来越快，无论是学生还是职场人士。常常感觉时间不够用。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10318,
+    "sent": "现任班主任工作认真负责，不仅关心学生的学习成绩、也时刻关注他们的心理状态。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10319,
+    "sent": "这本书的封面设计简洁大方，目录排版清晰直观，内容涵盖多个领域、包括历史文学和科技的最新研究动态。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10320,
+    "sent": "她喜欢绘画、写作、跳舞、却从未想过将这些爱好变成职业。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10321,
+    "sent": "虽然天气很冷。我们仍然决定出门散步。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10322,
+    "sent": "他忙着整理文件，准备会议资料、甚至忘了吃午饭。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10323,
+    "sent": "如果你不努力，怎么可能成功，别人又怎么会认可你？",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10324,
+    "sent": "他的演讲充满激情，让听众深受感动，也获得了全场热烈的掌声，",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10325,
+    "sent": "这次比赛我们虽然输了，却收获了宝贵的经验，认识到了团队合作的重要性、",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10326,
+    "sent": "小明不仅学习勤奋，而且乐于助人、在学校里很受欢迎。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10327,
+    "sent": "正是因为坚持锻炼，他的身体素质越来越好，连感冒都很少生了。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10328,
+    "sent": "他晚上习惯看书、听音乐、常常熬夜到很晚。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10329,
+    "sent": "我们讨论了计划的可行性？最终决定放弃这个方案。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10330,
+    "sent": "春天到了，万物复苏，田野里一片生机勃勃的景象：柳树发芽了，小草变绿了，",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10331,
+    "sent": "如果你愿意尝试，你就会发现，其实困难并没有想象中那么可怕、",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10332,
+    "sent": "我还没决定去哪儿旅行，可能去云南？也可能去西藏。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10333,
+    "sent": "诗人用细腻的笔触描绘了江南的烟雨。让人仿佛置身于水墨画之中，",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10334,
+    "sent": "她惊讶地问道：“你难道不知道明天是考试？”",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10335,
+    "sent": "这本书不仅提供了理论知识，还配有丰富的案例分析？非常适合学生阅读。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10336,
+    "sent": "会议结束后，大家都很疲惫。但仍然留下来继续讨论细节问题、",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10337,
+    "sent": "他不知道怎么回答这个问题，只好默默低着头、始终不发一言。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10338,
+    "sent": "店里陈列着各式各样的商品。玩具、文具、服饰应有尽有。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10339,
+    "sent": "生活中难免遇到挫折，关键是不要轻易放弃？要坚持下去。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10340,
+    "sent": "他从小生长在农村，虽然没有受过，良好的教育，却有着淳朴的性格和坚韧的毅力。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10341,
+    "sent": "会议结束后、我们需要尽快整理会议记录。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10342,
+    "sent": "听到这个消息：大家都沉默了，因为这意味着计划可能要推迟很久。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10343,
+    "sent": "因为天气突变：我们不得不改变行程，否则可能会遭遇危险。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10344,
+    "sent": "这项技术不仅提高了生产效率，还降低了成本。这让它的应用前景非常广阔。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10345,
+    "sent": "她喜欢旅行、摄影，以及品尝各地的美食。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10346,
+    "sent": "虽然他年纪不大，却已经有，多年的工作经验。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10347,
+    "sent": "既然你已经决定了，那么我们就按照你的想法去做。不再多说什么。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10348,
+    "sent": "文竹需要充足的阳光，良好的通风、以及适量的水分才能生长得更好。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10349,
+    "sent": "她不仅学习用功；还积极参与各种课外活动。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10350,
+    "sent": "对于教师来说：耐心是最重要的品质。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10351,
+    "sent": "只有掌握了基础知识，才能进一步，深入专业领域的研究。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10352,
+    "sent": "不管是刮风下雨，无论是疾风骤雨：我们都应该准时完成这项任务。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10353,
+    "sent": "502建立的部落格部落格里的人都没好事还这么疯狂跑题水贴哎标题不符合规矩豹利角色無法。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10354,
+    "sent": "读书可以让我们的思维更加缜密。写作能力也会随之提高。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10355,
+    "sent": "这份工作确实辛苦，工资又低，但却能学到很多东西。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10356,
+    "sent": "根据学校的规章制度；无故旷课的学生将被扣除学分。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10357,
+    "sent": "他一向以温和的性格著称；然而这一次，他不顾同事们的劝说，坚持了自己的意见。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10358,
+    "sent": "青春是人生中最宝贵的时光，什么事都别怨，回忆总是美丽。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10359,
+    "sent": "虽然今天的天气很好、但是我的心情却很糟糕，可能是因为工作压力太大了。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10360,
+    "sent": "他喜欢读书。尤其是历史类的书籍，他认为从中可以学到很多智慧。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10361,
+    "sent": "如果你不努力，就无法获得成功、但如果你过于努力，又可能失去生活的乐趣。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10362,
+    "sent": "她不仅学习成绩优异！而且性格也非常开朗，所以很受同学们的欢迎。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10363,
+    "sent": "人生的道路很长，会遇到很多困难：关键是要保持积极的心态，勇敢面对。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10364,
+    "sent": "昨天我们去了公园，看见了很多人。有跑步的、跳舞的、还有一些老人在打太极。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10365,
+    "sent": "这道数学题很难！虽然老师讲解了很多遍，但我还是不太明白解题的思路。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10366,
+    "sent": "这部电影的特效很棒？故事剧情也很有深度，值得一看。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10367,
+    "sent": "我们不仅要有远大的目标：也要注重日常的小努力，这样才能实现梦想。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10368,
+    "sent": "今天的时间很紧张，因为上午要开会，下午要赶报告，晚上还要参加朋友的生日派对。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10369,
+    "sent": "跑步是一项很好的运动？可以锻炼身体，还可以放松心情。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10370,
+    "sent": "周末我打算去购物——但是我还没有决定是去商场还是去超市。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10371,
+    "sent": "虽然他已经很累了；但他依然坚持完成了最后的任务。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10372,
+    "sent": "这个计划的成功，离不开每一个人的付出？尤其是团队的协作精神。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10373,
+    "sent": "快乐的秘诀在于知足——如果你总是不满足；就永远无法感受到幸福。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10374,
+    "sent": "旅行能开阔视野、增长见识，许多人因此喜欢到处走走看看。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10375,
+    "sent": "她画了一幅美丽的风景画？画中有蓝天、白云和一片金黄的麦田。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10376,
+    "sent": "生活就像一场马拉松，既需要速度；也需要持久的耐力。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10377,
+    "sent": "这本书的内容非常丰富、除了详细的理论讲解，还有很多实用的案例。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10378,
+    "sent": "如果不及时完成作业，会被老师批评？甚至还可能影响到期末成绩。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10379,
+    "sent": "春天来了、万物复苏、人们也开始脱下厚重的棉衣。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10380,
+    "sent": "虽然他学习非常努力，成绩却一直没有提高！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10381,
+    "sent": "我忘了带伞、只好冒雨跑回家。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10382,
+    "sent": "她善良。勇敢，乐于助人，因此受到大家的喜爱。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10383,
+    "sent": "他们遭遇了困难、但仍然没有放弃！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10384,
+    "sent": "早晨的阳光洒进房间，鸟儿在窗外歌唱，大自然一片生机勃勃。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10385,
+    "sent": "对待客户要热情？耐心，细心地解决他们的问题。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10386,
+    "sent": "我喜欢读书，它能开阔眼界、增长知识。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10387,
+    "sent": "城市中高楼林立，车水马龙，生活节奏越来越快。。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10388,
+    "sent": "陌生的环境使他感到紧张、但他还是鼓起勇气迈出了第一步！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10389,
+    "sent": "电影结束的歌声依然在耳边回响，人们久坐回味着剧情的余韵！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10390,
+    "sent": "老师提出了一个想法，学生积极配合了这项任务！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10391,
+    "sent": "我喜欢旅行的原因、是可以感受到不同地方的风土人情。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10392,
+    "sent": "夜幕降临街道逐渐安静下来：劳累的人们已经回家休息了。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10393,
+    "sent": "不认真对待每一件事、很难取得好的成果！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10394,
+    "sent": "孩子们在操场上奔跑：开心地玩耍欢笑声传遍整个校园。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10395,
+    "sent": "此项科研成果耗时十五年才最终完成、不仅超越了前人更推动了行业的发展！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10396,
+    "sent": "我在课堂上专心听讲、课后及时复习因此成绩进步明显？",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10397,
+    "sent": "春雨滋润着大地农民欢呼着、迎接这充满希望的季节！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  },
+  {
+    "sent_id": 10398,
+    "sent": "因为提前做了充分的准备：这次任务顺利完成领导给予高度肯定！",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点错误"
+    ]
+  }
+]

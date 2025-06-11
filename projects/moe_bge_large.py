@@ -1077,12 +1077,22 @@ class HierarchicalErrorClassifier(nn.Module):
             coarse_features = fine_features = shared_features
             total_load_balance_loss = shared_lb_loss
         
+        # # 粗粒度分类
+        # coarse_logits = self.coarse_classifier(pooled_output)
+        # coarse_probs = torch.sigmoid(coarse_logits)
+        
+        # # 细粒度分类
+        # fine_logits = self.fine_classifier(pooled_output)
+        # fine_probs = torch.sigmoid(fine_logits)
+
         # 粗粒度分类
-        coarse_logits = self.coarse_classifier(pooled_output)
+        # coarse_logits = self.coarse_classifier(pooled_output)
+        coarse_logits = self.coarse_classifier(coarse_features)  # 使用MoE输出
         coarse_probs = torch.sigmoid(coarse_logits)
         
         # 细粒度分类
-        fine_logits = self.fine_classifier(pooled_output)
+        # fine_logits = self.fine_classifier(pooled_output)
+        fine_logits = self.fine_classifier(fine_features)  # 使用MoE输出
         fine_probs = torch.sigmoid(fine_logits)
         
         return coarse_probs, fine_probs, total_load_balance_loss
@@ -1425,7 +1435,7 @@ def main():
     
     # 数据路径参数
     parser.add_argument('--data_path', type=str, 
-                       default='/mnt/cfs/huangzhiwei/NLP-WED0910/datas/train_new.json',
+                       default='/mnt/cfs/huangzhiwei/NLP-WED0910/datas/train_combined_zzn.json',
                        help='训练数据路径')
     parser.add_argument('--val_data_path', type=str,
                        default='/mnt/cfs/huangzhiwei/NLP-WED0910/datas/val.json', 
@@ -1438,26 +1448,26 @@ def main():
     parser.add_argument('--num_coarse_labels', type=int, default=4, help='粗粒度标签数')
     parser.add_argument('--num_fine_labels', type=int, default=14, help='细粒度标签数')
     parser.add_argument('--max_length', type=int, default=128, help='最大序列长度')
-    parser.add_argument('--dropout', type=float, default=0.3135999246870766, help='Dropout率')
+    parser.add_argument('--dropout', type=float, default=0.20313383310270017, help='Dropout率')
     
     # MoE参数
-    parser.add_argument('--num_experts', type=int, default=15, help='专家数量')
-    parser.add_argument('--expert_dim', type=int, default=512, help='专家维度')
-    parser.add_argument('--top_k', type=int, default=1, help='Top-K专家')
+    parser.add_argument('--num_experts', type=int, default=4, help='专家数量')
+    parser.add_argument('--expert_dim', type=int, default=1024, help='专家维度')
+    parser.add_argument('--top_k', type=int, default=2, help='Top-K专家')
     parser.add_argument('--use_separate_moe', type=bool, default=True, help='是否使用独立MoE')
-    parser.add_argument('--load_balance_weight', type=float, default=0.013540158381723238, help='负载均衡权重')
+    parser.add_argument('--load_balance_weight', type=float, default=0.003582813616893482, help='负载均衡权重')
     
     # 训练参数
     parser.add_argument('--batch_size', type=int, default=32, help='批次大小')
-    parser.add_argument('--lr', type=float, default=1.86884655838032e-05, help='学习率')
+    parser.add_argument('--lr', type=float, default=4.2165458889040465e-06, help='学习率')
     parser.add_argument('--weight_decay', type=float, default=0.01, help='权重衰减')
     parser.add_argument('--epochs', type=int, default=40, help='训练轮数')
     parser.add_argument('--patience', type=int, default=5, help='早停耐心值')
-    parser.add_argument('--threshold', type=float, default=0.31676353792873924, help='二分类阈值')
-    parser.add_argument('--seed', type=int, default=3407, help='随机种子')
+    parser.add_argument('--threshold', type=float, default=0.41683925204642913, help='二分类阈值')
+    parser.add_argument('--seed', type=int, default=2023, help='随机种子')
     
     # 保存路径
-    parser.add_argument('--results_dir', type=str, default='training_results', help='结果保存目录')
+    parser.add_argument('--results_dir', type=str, default='training_results/wyx', help='结果保存目录')
     parser.add_argument('--checkpoint_dir', type=str, default='checkpoints', help='模型保存目录')
     
     args = parser.parse_args()
