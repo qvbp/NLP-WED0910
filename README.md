@@ -41,3 +41,8 @@ conda activate [环境名称]
 ## 模型文件
 
 所有模型相关代码和运行脚本均位于 `/projects` 目录下。
+如何复现出最佳性能模型？
+对应的最高性能模型文件是：moe+bge+qwen256_distillation.py
+配合上"/NLP-WED0910/projects/best_hyperparameter/bge+qwen256.json"里的最佳超参
+最后集成学习qwen3-235b的字符级错误结果获得最佳结果。
+
